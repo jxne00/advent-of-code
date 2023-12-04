@@ -3,7 +3,6 @@
 #include <sstream>
 #include <string>
 #include <vector>
-#include <unordered_map>
 
 // stores count of each color
 struct ColorCount {
