@@ -1,4 +1,8 @@
-a.out
+# output files
+*.out
+*.o
+*.exe
+
 .DS_Store
 .vscode
 draft.cpp
