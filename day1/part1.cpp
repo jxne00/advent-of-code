@@ -1,41 +1,30 @@
+#include "../utils/common.hpp"
 #include <iostream>
 #include <fstream>
-#include <string>
 
-int main() {
-    std::ifstream input("input.txt");
+int main(int argc, char* argv[]) {
+    std::cout << "----- Day 1: Trebuchet?! (Part 1) -----\n" << std::endl;
+
+    std::ifstream input(utils::get_input_path(argc, argv));
     std::string line;
 
     int calibration_sum = 0;
-    int line_count = 1;
     while (std::getline(input, line)) {
-        int first_digit = -1;
-        int last_digit = -1;
+        // find first and last digit
+        auto first_it = std::find_if(line.begin(), line.end(), ::isdigit);
+        auto last_it = std::find_if(line.rbegin(), line.rend(), ::isdigit);
 
-        // find the first digit occurence
-        for (int i = 0; i < line.size(); i++) {
-            if (isdigit(line[i])) {
-                first_digit = line[i] - '0';
-                break;
-            }
-        }
+        // convert digits to int then add to sum
+        if (first_it != line.end() && last_it != line.rend()) {
+            int first_digit = *first_it - '0';
+            int last_digit = *last_it - '0';
 
-        // find the last digit occurence
-        for (int i = line.size() - 1; i >= 0; i--) {
-            if (isdigit(line[i])) {
-                last_digit = line[i] - '0';
-                break;
-            }
-        }
-
-        // add calibration value to sum
-        if (first_digit != -1 && last_digit != -1) {
             int calibration_val = (first_digit * 10) + last_digit;
             calibration_sum += calibration_val;
 
-            std::cout << line_count++ << ") " << calibration_val << std::endl;
+            std::cout << line << " -> " << calibration_val << std::endl;
         }
     }
-    std::cout << "\nFinal sum: " << calibration_sum << std::endl;
+    std::cout << "---------------\nFinal sum: " << calibration_sum << std::endl;
     return 0;
 }

@@ -1,0 +1,3003 @@
+----- Day 1: Trebuchet?! (Part 2) -----
+
+2xjzgsjzfhzhm1
+2xjzgsjzfhzhm1 -> 21
+
+qhklfjd39rpjxhqtftwopfvrrj2eight
+qhklfjd39rpjxhqtf2pfvrrj28 -> 38
+
+95btwo
+95b2 -> 92
+
+lfsqldnf3onenplgfxdjzjjnpzfxnineseven
+lfsqldnf31nplgfxdjzjjnpzfx97 -> 37
+
+five7fouronesevenpfsrmszpc
+57417pfsrmszpc -> 57
+
+xcsfkjqvln2tpm
+xcsfkjqvln2tpm -> 22
+
+ncjtcdb625two9
+ncjtcdb62529 -> 69
+
+6srtj3gfghkdtmfzseven
+6srtj3gfghkdtmfz7 -> 67
+
+three4fournineone
+34491 -> 31
+
+pcpsxmkhdgsix25six6ngzsqzdcrb
+pcpsxmkhdg62566ngzsqzdcrb -> 66
+
+1sixdzhbjvnvgcxmsrlkb9xbjk7t2
+16dzhbjvnvgcxmsrlkb9xbjk7t2 -> 12
+
+dsxnfkjn2vtwofivethree2
+dsxnfkjn2v2532 -> 22
+
+qfbp2tpgvsxm
+qfbp2tpgvsxm -> 22
+
+kvbhsseven2rkbllhrhvsevenfour2vf
+kvbhs72rkbllhrhv742vf -> 72
+
+bqbtzbtt3
+bqbtzbtt3 -> 33
+
+ninek6
+9k6 -> 96
+
+3fivebvqhvhlvz
+35bvqhvhlvz -> 35
+
+two68jxfnqlzfkninenine8
+268jxfnqlzfk998 -> 28
+
+vhckhhhb2sixtftjtdjf2nine
+vhckhhhb26tftjtdjf29 -> 29
+
+4jc
+4jc -> 44
+
+3sevenxlxfnpk
+37xlxfnpk -> 37
+
+5sjfive
+5sj5 -> 55
+
+c8bvlkdq283rqfftj
+c8bvlkdq283rqfftj -> 83
+
+8eight1threehhvmnlft
+8813hhvmnlft -> 83
+
+4sixmfcronelzcpnfourlgdbkgt
+46mfcr1lzcpn4lgdbkgt -> 44
+
+hntcjmppp9fmntwokx2
+hntcjmppp9fmn2kx2 -> 92
+
+24mkgr6mx9n4
+24mkgr6mx9n4 -> 24
+
+cksfkrdmdcmnbmkgk3two4
+cksfkrdmdcmnbmkgk324 -> 34
+
+twosixthreefivelq3nine
+2635lq39 -> 29
+
+njmrtr6fmldninevcbtxr42
+njmrtr6fmld9vcbtxr42 -> 62
+
+eightfrdrczdxrcrfxh6
+8frdrczdxrcrfxh6 -> 86
+
+8sevenonefmfqhtx8lk
+871fmfqhtx8lk -> 88
+
+lnoneight8twodg
+lnon882dg -> 82
+
+tszrcb7tvvhfive4
+tszrcb7tvvh54 -> 74
+
+nknphprtv67fivehqlfournine2jk
+nknphprtv675hql492jk -> 62
+
+9eightszgdhftggrktkzbsmnhtwonekh
+98szgdhftggrktkzbsmnhtw1kh -> 91
+
+1onefzkgf2two417
+11fzkgf22417 -> 17
+
+77fivepsmmpp
+775psmmpp -> 75
+
+bnine7vmttgmdskc
+b97vmttgmdskc -> 97
+
+6tnsixclbvkhmsp
+6tn6clbvkhmsp -> 66
+
+ggreightwo1mnsbzmxsdcdrhhg5one
+ggr8wo1mnsbzmxsdcdrhhg51 -> 81
+
+ninetwo6qtbklgb2
+926qtbklgb2 -> 92
+
+four8fmfxmr
+48fmfxmr -> 48
+
+threetxfrsevenvfdgrtsixtwofsq7
+3txfr7vfdgrt62fsq7 -> 37
+
+hqxlseven53
+hqxl753 -> 73
+
+vxqq24eight6
+vxqq2486 -> 26
+
+7psxpgxmkpzkzeight3
+7psxpgxmkpzkz83 -> 73
+
+9four7
+947 -> 97
+
+stwoone4eightwoj
+s2148woj -> 28
+
+one38
+138 -> 18
+
+9cjlrgrgpfjeighteightdcpjhzbjqcdthree
+9cjlrgrgpfj88dcpjhzbjqcd3 -> 93
+
+rqfone2
+rqf12 -> 12
+
+dvkxhvkgxcfivescjcnqqnnine2tthreecptkgxmzjsbzdrhk
+dvkxhvkgxc5scjcnqqn92t3cptkgxmzjsbzdrhk -> 53
+
+5lhprmg8two7two3
+5lhprmg82723 -> 53
+
+5lvtg5sevennine2zrrmghf4seven
+5lvtg5792zrrmghf47 -> 57
+
+fourfive97sevensevensixcsffnlcbtjk
+4597776csffnlcbtjk -> 46
+
+onesixoneninesixnbkf5xpsgsmpvdsdsqdvpjjzp
+16196nbkf5xpsgsmpvdsdsqdvpjjzp -> 15
+
+nineb321mgkpqjqjqh
+9b321mgkpqjqjqh -> 91
+
+seven2cstttkvkmpssflkxjmbnvthreefour
+72cstttkvkmpssflkxjmbnv34 -> 74
+
+six1bmcjbhdgqm6kgzsxbgdqnjqf3four6
+61bmcjbhdgqm6kgzsxbgdqnjqf346 -> 66
+
+zchkfjxsllkncz175
+zchkfjxsllkncz175 -> 15
+
+vsveightwo8
+vsv8wo8 -> 88
+
+fourbtrnfdp2four5
+4btrnfdp245 -> 45
+
+13dtf8769
+13dtf8769 -> 19
+
+6qfvvdqdrtstwothree4seven8vszpseven
+6qfvvdqdrts23478vszp7 -> 67
+
+7rgzpxfbczk1fivetwo4two9nine
+7rgzpxfbczk1524299 -> 79
+
+3sksmfxn
+3sksmfxn -> 33
+
+16ninetwonqqmptq
+1692nqqmptq -> 12
+
+9five4fckzssxsvpzbvlktjzcninethree
+954fckzssxsvpzbvlktjzc93 -> 93
+
+3threel889bvbcgvl
+33l889bvbcgvl -> 39
+
+threetzzjntxlsd2klrjfnbg87
+3tzzjntxlsd2klrjfnbg87 -> 37
+
+3two3qrrdbkbk
+323qrrdbkbk -> 33
+
+29oneightt
+29on8t -> 28
+
+7mkpfchstjt7mshqht4fivesix
+7mkpfchstjt7mshqht456 -> 76
+
+tvmqndvsix875nine8
+tvmqndv687598 -> 68
+
+vg7477ninecpnrvnine7
+vg74779cpnrv97 -> 77
+
+seveneightmknlqjlstx4zjjrpbhjhnnc8
+78mknlqjlstx4zjjrpbhjhnnc8 -> 78
+
+8qklthreetwo7tlmrfzvtwo7zvccc
+8qkl327tlmrfzv27zvccc -> 87
+
+6one1dpstqpmfbhst
+611dpstqpmfbhst -> 61
+
+sixfourfourseven6rzdkfour
+64476rzdk4 -> 64
+
+6eighttbltmntb8
+68tbltmntb8 -> 68
+
+seven72cqslvzpgj
+772cqslvzpgj -> 72
+
+jpvrsgfhtwo5nfc1cgxdrdrbfnseven
+jpvrsgfh25nfc1cgxdrdrbfn7 -> 27
+
+four1ninezlhqxtsgfzsevenhspvmxrtztzgtmseven5
+419zlhqxtsgfz7hspvmxrtztzgtm75 -> 45
+
+foursixzjvgjgsevensvkd5
+46zjvgjg7svkd5 -> 45
+
+seven121fivefgxhdfive
+71215fgxhd5 -> 75
+
+twoh8
+2h8 -> 28
+
+ghhtttxqgr95
+ghhtttxqgr95 -> 95
+
+zkpklcjbjlr2
+zkpklcjbjlr2 -> 22
+
+nine2mtrdcbrbntrdqninevbkbfg35lnpx
+92mtrdcbrbntrdq9vbkbfg35lnpx -> 95
+
+nineninesix68pcvsdnns
+99668pcvsdnns -> 98
+
+rf16one7
+rf1617 -> 17
+
+seven276
+7276 -> 76
+
+sixseven1
+671 -> 61
+
+qjxseven9six
+qjx796 -> 76
+
+7c9xvhgmpf41
+7c9xvhgmpf41 -> 71
+
+dlzpvdpxseven9nine
+dlzpvdpx799 -> 79
+
+mlmlqrpn4twofivesbmhdbcsixtwo
+mlmlqrpn425sbmhdbc62 -> 42
+
+ld74txfzksr5qconenine
+ld74txfzksr5qc19 -> 79
+
+six7djcdrtk7chktrh88
+67djcdrtk7chktrh88 -> 68
+
+2seven7jtrbhznt
+277jtrbhznt -> 27
+
+1eighthnhchsevenfive
+18hnhch75 -> 15
+
+qdhscpeight8
+qdhscp88 -> 88
+
+12gnxzzm
+12gnxzzm -> 12
+
+k7fourmhcfkggt8919np
+k74mhcfkggt8919np -> 79
+
+8zljspvnmlx6four
+8zljspvnmlx64 -> 84
+
+36twofivethreeptbdrfqzbz7qbjm
+36253ptbdrfqzbz7qbjm -> 37
+
+bxkbjbzgone3ldhlnhxfcf7btkktspxrtqkxqfdmlqgqvgclb
+bxkbjbzg13ldhlnhxfcf7btkktspxrtqkxqfdmlqgqvgclb -> 17
+
+sevenfourmdrxseven2z2fiveone
+74mdrx72z251 -> 71
+
+8bbprzqrqn
+8bbprzqrqn -> 88
+
+twofivethree95mpqclhfkzlsix
+25395mpqclhfkzl6 -> 26
+
+gpfjflrkc96tmsix6dxjnfive
+gpfjflrkc96tm66dxjn5 -> 95
+
+qzeight6
+qz86 -> 86
+
+five5zlthgqjntwotqmnnsd
+55zlthgqjn2tqmnnsd -> 52
+
+eight6nbpvfour4kzkvbzrxcmkh
+86nbpv44kzkvbzrxcmkh -> 84
+
+fdkrxdckqbpsklz64fourones8
+fdkrxdckqbpsklz6441s8 -> 68
+
+5qpldkhltl
+5qpldkhltl -> 55
+
+27xldkbqbnmrrbqkhmksvk
+27xldkbqbnmrrbqkhmksvk -> 27
+
+pjoneightknpcgkkv7cbknrhfdmtdm8
+pjon8knpcgkkv7cbknrhfdmtdm8 -> 88
+
+432xsixvvktflzxone
+432x6vvktflzx1 -> 41
+
+35fouronemzzszfqppllgchsjjnine
+3541mzzszfqppllgchsjj9 -> 39
+
+qgcnzcbvsxbtn6lthreenineone
+qgcnzcbvsxbtn6l391 -> 61
+
+two2fourkdgbfb
+224kdgbfb -> 24
+
+fzkmbtvnvj5bzfgvxv3nineknpqzznzmf
+fzkmbtvnvj5bzfgvxv39knpqzznzmf -> 59
+
+9mkqtmlnpzt282dgkmvlsonefourthree
+9mkqtmlnpzt282dgkmvls143 -> 93
+
+mcqhpkhonethreeninesevenfdsggqnlfcnrft3frqzkscft
+mcqhpkh1397fdsggqnlfcnrft3frqzkscft -> 13
+
+847
+847 -> 87
+
+gsxvvr6tghfbxxghgv6lplf
+gsxvvr6tghfbxxghgv6lplf -> 66
+
+fqzgkxkbmkpbhpvpdprmlhsngc5
+fqzgkxkbmkpbhpvpdprmlhsngc5 -> 55
+
+qeightwo2threecrjjtv9fourbthree
+q8wo23crjjtv94b3 -> 83
+
+2eightdcbgfdqzk
+28dcbgfdqzk -> 28
+
+fourtwothree5tdzpzfxkpjmlkzzrf
+4235tdzpzfxkpjmlkzzrf -> 45
+
+seven633
+7633 -> 73
+
+8mldn
+8mldn -> 88
+
+eightmg7dvjzbngkxmnxdctjtdffive97zpjrjqvp
+8mg7dvjzbngkxmnxdctjtdf597zpjrjqvp -> 87
+
+sixfournineone38eighteight
+64913888 -> 68
+
+8mngs412
+8mngs412 -> 82
+
+3fivefourtwo7five
+354275 -> 35
+
+7sevenjfkcf7rvone8xjdvsc
+77jfkcf7rv18xjdvsc -> 78
+
+tljcrzngfdsqctfour6hsnljsxrqdzd
+tljcrzngfdsqct46hsnljsxrqdzd -> 46
+
+csix7hnkhds4four67
+c67hnkhds4467 -> 67
+
+3cxrlqcnseven4twox3
+3cxrlqcn742x3 -> 33
+
+rtwonerxcnpqdnzksvzmmndcjlzq2nine6ntfzjdqnrjeight
+rtw1rxcnpqdnzksvzmmndcjlzq296ntfzjdqnrj8 -> 18
+
+zbqgrvvvblggbghtfx98
+zbqgrvvvblggbghtfx98 -> 98
+
+three2zcpspgtq77vqtgpcxkvq8
+32zcpspgtq77vqtgpcxkvq8 -> 38
+
+94zksixnvbxrllxln
+94zk6nvbxrllxln -> 96
+
+1eightrctknxkmv9jtwoeight
+18rctknxkmv9j28 -> 18
+
+2onenine5eight58
+2195858 -> 28
+
+four2five
+425 -> 45
+
+6fourfiveeight
+6458 -> 68
+
+pbfourlzdl4
+pb4lzdl4 -> 44
+
+4onejrltvhxprhlzctrqzbz5fourseven6
+41jrltvhxprhlzctrqzbz5476 -> 46
+
+hlsdjlleightdcmdj8jdg
+hlsdjll8dcmdj8jdg -> 88
+
+eightbfkgvbxxm6
+8bfkgvbxxm6 -> 86
+
+sixseven9hmhchsmqhhtrdftcfivetz
+679hmhchsmqhhtrdftc5tz -> 65
+
+mq4five2fsdhzn
+mq452fsdhzn -> 42
+
+ceight3mncgnineeight8dkqrjjtmc
+c83mncg988dkqrjjtmc -> 88
+
+onefour7eightsix
+14786 -> 16
+
+seven4fqsjk38fhbmn9fgzzcc
+74fqsjk38fhbmn9fgzzcc -> 79
+
+9cmb5ninenjsppthpnine5
+9cmb59njsppthp95 -> 95
+
+qghtvpsqpxptoneljvstwo8lpqcbgtqvjmpq
+qghtvpsqpxpt1ljvs28lpqcbgtqvjmpq -> 18
+
+onelq85dlqpx8
+1lq85dlqpx8 -> 18
+
+1threetzsxqtndvhqn
+13tzsxqtndvhqn -> 13
+
+lqdvkonebqjqj9
+lqdvk1bqjqj9 -> 19
+
+3six6
+366 -> 36
+
+9two9sixeight776
+92968776 -> 96
+
+scrrprfkblkplgqzzqb2
+scrrprfkblkplgqzzqb2 -> 22
+
+18vcrhxb4b
+18vcrhxb4b -> 14
+
+three8nine
+389 -> 39
+
+1khkncj8fivefourthree2
+1khkncj85432 -> 12
+
+ninetwo8tbbsfmkqtt51five
+928tbbsfmkqtt515 -> 95
+
+66one88
+66188 -> 68
+
+ninempgbhpm6seven34
+9mpgbhpm6734 -> 94
+
+eightthreetwo4threetwo
+832432 -> 82
+
+vvpqkdonesevendvfrgmhhlsix91threethree
+vvpqkd17dvfrgmhhl69133 -> 13
+
+vbskcncpjxtdhqlcone6kgqpz
+vbskcncpjxtdhqlc16kgqpz -> 16
+
+54lmnnqsrm73
+54lmnnqsrm73 -> 53
+
+5mqnmvcbqnz82ninethree
+5mqnmvcbqnz8293 -> 53
+
+47teightthreehrhtdndrk
+47t83hrhtdndrk -> 43
+
+fft2foursrdhxkzfourv
+fft24srdhxkz4v -> 24
+
+tbeight48759eight9twonenl
+tb84875989tw1nl -> 81
+
+3sfkvkmvbbm9four9cbjzgllfl
+3sfkvkmvbbm949cbjzgllfl -> 39
+
+sixqhxeightone7tlsd
+6qhx817tlsd -> 67
+
+22zmllbhcptwo
+22zmllbhcp2 -> 22
+
+dqxdjrkmnvkbsxc3ztbseven
+dqxdjrkmnvkbsxc3ztb7 -> 37
+
+oneeight6dcphmnrfltfour
+186dcphmnrflt4 -> 14
+
+mgxzcfsevenfour4six
+mgxzcf7446 -> 76
+
+sixb8six34gqjtlcq
+6b8634gqjtlcq -> 64
+
+fiveseventhreexfblvxgkplvbrgpfive1onesix
+573xfblvxgkplvbrgp5116 -> 56
+
+one3mgqphj5
+13mgqphj5 -> 15
+
+7fpzxmmxgnb5
+7fpzxmmxgnb5 -> 75
+
+jbshclzone3oneseven117dkzzdxdd
+jbshclz1317117dkzzdxdd -> 17
+
+56five1
+5651 -> 51
+
+jeightwo1ninemxtvgl717pbv1mqs
+j8wo19mxtvgl717pbv1mqs -> 81
+
+3six36
+3636 -> 36
+
+35mlzjsgxxtg
+35mlzjsgxxtg -> 35
+
+hmmjgonehjqdcqkh1gskjrmfour7
+hmmjg1hjqdcqkh1gskjrm47 -> 17
+
+eightfiverqbb3
+85rqbb3 -> 83
+
+sixtdkfbglhbjbvthreejsd8tglkrsfktcjt
+6tdkfbglhbjbv3jsd8tglkrsfktcjt -> 68
+
+1eight2mgxrgbbb3
+182mgxrgbbb3 -> 13
+
+zzqxvtthreepf3eighttwoonefive
+zzqxvt3pf38215 -> 35
+
+vjnxhl4threetwokj
+vjnxhl432kj -> 42
+
+oneqddgbbqtzsonenxkeightvx7
+1qddgbbqtzs1nxk8vx7 -> 17
+
+nine24
+924 -> 94
+
+ftwone2
+ftw12 -> 12
+
+53twonehx
+53tw1hx -> 51
+
+two7three4fourhbgninenkvxjjsz
+27344hbg9nkvxjjsz -> 29
+
+7five62ninefour
+756294 -> 74
+
+53nine7lqthree4
+5397lq34 -> 54
+
+1six1jn
+161jn -> 11
+
+five5drcjvbgdxzonefourfjdkfive
+55drcjvbgdxz14fjdk5 -> 55
+
+6onecfninesqfdtxmdhmfvlhbsjv9eight
+61cf9sqfdtxmdhmfvlhbsjv98 -> 68
+
+5dqmfmqbdfdjvpl
+5dqmfmqbdfdjvpl -> 55
+
+qxkqfjshdone2zrmdsts
+qxkqfjshd12zrmdsts -> 12
+
+1qrvnf8zvfour
+1qrvnf8zv4 -> 14
+
+dht2
+dht2 -> 22
+
+4twoqdrshn87vxldzvnkn1five
+42qdrshn87vxldzvnkn15 -> 45
+
+4nineh
+49h -> 49
+
+zctqdcfbseven6three58lzscrpsbb2
+zctqdcfb76358lzscrpsbb2 -> 72
+
+fzmndhssmm3jdzlfourshjkmjkv53gvssnvzsz
+fzmndhssmm3jdzl4shjkmjkv53gvssnvzsz -> 33
+
+five2qkxtfkj3sixshpnzdcjhlcmksnv
+52qkxtfkj36shpnzdcjhlcmksnv -> 56
+
+bskcmljnq69
+bskcmljnq69 -> 69
+
+psxkxqztb3xsctsk6qvldjdzzqmgqcxncx2btqxh
+psxkxqztb3xsctsk6qvldjdzzqmgqcxncx2btqxh -> 32
+
+onetwosixttghndtzx8
+126ttghndtzx8 -> 18
+
+8twocmnfmslsheighthtxsgjddm
+82cmnfmslsh8htxsgjddm -> 88
+
+fnvkqndfqmhgscnvq31kvvftxbzhtgzxqtngvqseven
+fnvkqndfqmhgscnvq31kvvftxbzhtgzxqtngvq7 -> 37
+
+7sevenkhhvtvsbrvcvm8zksvgcfrkgfourtzjvpqstckmmlzz
+77khhvtvsbrvcvm8zksvgcfrkg4tzjvpqstckmmlzz -> 74
+
+7hkfiveeightpjhone
+7hk58pjh1 -> 71
+
+8zptwoonemrninefive3spxrlhr
+8zp21mr953spxrlhr -> 83
+
+3qvjknqcnngpkninecgsbp3sevenfnpvrcltj
+3qvjknqcnngpk9cgsbp37fnpvrcltj -> 37
+
+qztwo8678
+qz28678 -> 28
+
+bxkj959dntcpzv
+bxkj959dntcpzv -> 99
+
+4one4
+414 -> 44
+
+lstwone347nine
+lstw13479 -> 19
+
+ff79krfbjttqp4seven1
+ff79krfbjttqp471 -> 71
+
+gjtlbgxdqt7eightsix
+gjtlbgxdqt786 -> 76
+
+8fivefour82threetwo
+8548232 -> 82
+
+1zjxthree4
+1zjx34 -> 14
+
+szgx6fivefour12
+szgx65412 -> 62
+
+557dspnfzhmlh
+557dspnfzhmlh -> 57
+
+5hnfour
+5hn4 -> 54
+
+847zzkrtjlb
+847zzkrtjlb -> 87
+
+82six
+826 -> 86
+
+xlnhrcksv3fourzl
+xlnhrcksv34zl -> 34
+
+2ninetwo8ninelhnsbseven9
+29289lhnsb79 -> 29
+
+ccseightwo8fiveonetwo5onegkhlg
+ccs8wo851251gkhlg -> 81
+
+eightp2onegrmfsnine5one
+8p21grmfs951 -> 81
+
+4five9xnmlldfive
+459xnmlld5 -> 45
+
+five636
+5636 -> 56
+
+fivesix29
+5629 -> 59
+
+34dsbtmlhgggzkqxs7
+34dsbtmlhgggzkqxs7 -> 37
+
+twothreesmgjch93mcdndsn
+23smgjch93mcdndsn -> 23
+
+cmnmtzjnmtggseven1tjsshnktffive72
+cmnmtzjnmtgg71tjsshnktf572 -> 72
+
+7xcbpsix6m
+7xcbp66m -> 76
+
+7fourthree
+743 -> 73
+
+7cxnzthree
+7cxnz3 -> 73
+
+5eightthree3lpvlfk
+5833lpvlfk -> 53
+
+4rdnp
+4rdnp -> 44
+
+one6gmpjfouronettbbjdqsxn
+16gmpj41ttbbjdqsxn -> 11
+
+6xtcv
+6xtcv -> 66
+
+dpspd1cb2onegxsgdtcsix
+dpspd1cb21gxsgdtc6 -> 16
+
+1eightpseven
+18p7 -> 17
+
+ntczqmrclm2
+ntczqmrclm2 -> 22
+
+six7nineeight1
+67981 -> 61
+
+qrndlfour9bhbmlgj6
+qrndl49bhbmlgj6 -> 46
+
+52vhnxvngjjkzt
+52vhnxvngjjkzt -> 52
+
+nine8six
+986 -> 96
+
+3seventhreesixfpmpbjninesix
+3736fpmpbj96 -> 36
+
+seightwoseven4sevenppdnk7
+s8wo747ppdnk7 -> 87
+
+lnxeightbhxfmdrxcbjzx9sixnine
+lnx8bhxfmdrxcbjzx969 -> 89
+
+8ptdmjrd21zrnt1one
+8ptdmjrd21zrnt11 -> 81
+
+one1dmbfournine2
+11dmb492 -> 12
+
+25five748
+255748 -> 28
+
+266eightwom
+2668wom -> 28
+
+zxfxjn32threelxmqnlcvnknzbn3
+zxfxjn323lxmqnlcvnknzbn3 -> 33
+
+lqmjm2onezseven
+lqmjm21z7 -> 27
+
+sphlhbbz14sixtwosix
+sphlhbbz14626 -> 16
+
+sixr9llqxb4
+6r9llqxb4 -> 64
+
+tnnhlmsix314mqvdlxfour4
+tnnhlm6314mqvdlx44 -> 64
+
+threenjxgtthreethreeeight14one
+3njxgt338141 -> 31
+
+1fivetwo
+152 -> 12
+
+hhhtkpvhvg8
+hhhtkpvhvg8 -> 88
+
+31cslxxzgbktjtwotrzs1one
+31cslxxzgbktj2trzs11 -> 31
+
+twoseven9
+279 -> 29
+
+4fivenine9332
+4599332 -> 42
+
+six35nineeightwok
+63598wok -> 68
+
+nine9fpxgqjrftwovhldfflqthree
+99fpxgqjrf2vhldfflq3 -> 93
+
+434four5threetpcs
+434453tpcs -> 43
+
+ql52kzzgnsgll
+ql52kzzgnsgll -> 52
+
+onex5145
+1x5145 -> 15
+
+gsppnkx1
+gsppnkx1 -> 11
+
+22six
+226 -> 26
+
+zjbbqnbhsdfourmk19sixone
+zjbbqnbhsd4mk1961 -> 41
+
+six3onesevensixvnsixone7
+63176vn617 -> 67
+
+seventhreefive8
+7358 -> 78
+
+four62four7eightseventwo
+46247872 -> 42
+
+2three5jtzmtxhqxhsixxlkmptshb
+235jtzmtxhqxh6xlkmptshb -> 26
+
+five3lklnccst1dstgvnprktgcnseven
+53lklnccst1dstgvnprktgcn7 -> 57
+
+sevenfour52
+7452 -> 72
+
+hfxkkbcfpcgzfqsv1three68three
+hfxkkbcfpcgzfqsv13683 -> 13
+
+lnqrcdpglf2ksqddhp
+lnqrcdpglf2ksqddhp -> 22
+
+13onenbmqvpqsbbf
+131nbmqvpqsbbf -> 11
+
+1bfive
+1b5 -> 15
+
+1dmnlscgvfdqrf
+1dmnlscgvfdqrf -> 11
+
+bvtwonettkzzxpb4
+bvtw1ttkzzxpb4 -> 14
+
+5two2t7
+522t7 -> 57
+
+t7djkh
+t7djkh -> 77
+
+63t86nlhfgqgnrghqone1
+63t86nlhfgqgnrghq11 -> 61
+
+one89eightlmztkcjjnonefive
+1898lmztkcjjn15 -> 15
+
+7twosjmcrlcfqr29lfkrjz
+72sjmcrlcfqr29lfkrjz -> 79
+
+1nine5four
+1954 -> 14
+
+xxjbmsvfxb8
+xxjbmsvfxb8 -> 88
+
+nxvrvcqkbseven99rbzbdp641
+nxvrvcqkb799rbzbdp641 -> 71
+
+56fdpx
+56fdpx -> 56
+
+skszhkqdtonesixth5eight
+skszhkqdt16th58 -> 18
+
+ninetwo8jqbtwokbhzvv4fiveoneightxb
+928jqb2kbhzvv45on8xb -> 98
+
+1threemfcblxjljdtone
+13mfcblxjljdt1 -> 11
+
+fsfgncxvcmszn2pzspkkgqvfxlnbzgjr1
+fsfgncxvcmszn2pzspkkgqvfxlnbzgjr1 -> 21
+
+rrxhnslrkeightgcsbcgdbkplzxbmmlxsn5sfp66
+rrxhnslrk8gcsbcgdbkplzxbmmlxsn5sfp66 -> 86
+
+foureight3
+483 -> 43
+
+5rplrmrjtjcfnct9sixfourzptmffrpthree
+5rplrmrjtjcfnct964zptmffrp3 -> 53
+
+mld6ztzninesixfour4
+mld6ztz9644 -> 64
+
+twohbbxmthljpkqthtcgtt8
+2hbbxmthljpkqthtcgtt8 -> 28
+
+ltvgmqgsix89
+ltvgmqg689 -> 69
+
+6khclqhcvdz24eightseven
+6khclqhcvdz2487 -> 67
+
+6prb
+6prb -> 66
+
+nhsjqtnk6bqzhzvldlcgsmkq1twobfqzm
+nhsjqtnk6bqzhzvldlcgsmkq12bfqzm -> 62
+
+tfivehmdtxqlsevenzxt1ckjbnttgqctwo4
+t5hmdtxql7zxt1ckjbnttgqc24 -> 54
+
+ghnjjmtlvfive9znltjfskfnl3vdcjkvqcdplvdmckmfgxq
+ghnjjmtlv59znltjfskfnl3vdcjkvqcdplvdmckmfgxq -> 53
+
+ztvvbbjx3
+ztvvbbjx3 -> 33
+
+6jhsrszlpsh
+6jhsrszlpsh -> 66
+
+4fhtrctvrgmfhdjqvqp8sixnnftggrzlgs2
+4fhtrctvrgmfhdjqvqp86nnftggrzlgs2 -> 42
+
+bvlqxnjbbjgtfpslpspvpl7jsjlrdfiveeight88
+bvlqxnjbbjgtfpslpspvpl7jsjlrd5888 -> 78
+
+fsvcxvlc74sevenltx37sevenlbq
+fsvcxvlc747ltx377lbq -> 77
+
+fourfivetgkqz5cgj4
+45tgkqz5cgj4 -> 44
+
+cnrjtfvht74nptvh
+cnrjtfvht74nptvh -> 74
+
+oneldnoneone745dhvqnvmlfj
+1ldn11745dhvqnvmlfj -> 15
+
+2trhmdcpnreight
+2trhmdcpnr8 -> 28
+
+dshghlkjzh1kv
+dshghlkjzh1kv -> 11
+
+threexzkssrxlzzpxsjzbbtthree7
+3xzkssrxlzzpxsjzbbt37 -> 37
+
+eightdsqrdllssxv7sevendttwo3three
+8dsqrdllssxv77dt233 -> 83
+
+stz6five9four
+stz6594 -> 64
+
+jfbfgvfgmvlhjv94
+jfbfgvfgmvlhjv94 -> 94
+
+rcncncfcqsevenjdrtctbbsznpct48cbbxseven
+rcncncfcq7jdrtctbbsznpct48cbbx7 -> 77
+
+ninevjxzk2two
+9vjxzk22 -> 92
+
+1qgdcpslvqhjzbgtsbnzcd
+1qgdcpslvqhjzbgtsbnzcd -> 11
+
+kmlzbndds8fivegfdgpfivetwo63
+kmlzbndds85gfdgp5263 -> 83
+
+66mkeightnine1rvfnine4
+66mk891rvf94 -> 64
+
+nine82
+982 -> 92
+
+58ntpkdssixnntjlgfkxq
+58ntpkds6nntjlgfkxq -> 56
+
+2jxqttctsxthreepnxsfive
+2jxqttctsx3pnxs5 -> 25
+
+fivekvfkqpc28foursixptgbpfm6
+5kvfkqpc2846ptgbpfm6 -> 56
+
+6twofourslqbzlcsmf
+624slqbzlcsmf -> 64
+
+five4vmdl
+54vmdl -> 54
+
+thx5six
+thx56 -> 56
+
+5hfnsqhvcfgckcseven3jgdtkkv
+5hfnsqhvcfgckc73jgdtkkv -> 53
+
+seven6eight65five99
+76865599 -> 79
+
+hplrgdqrjtonesevenseven4z65eight
+hplrgdqrjt1774z658 -> 18
+
+khkts8hcsfvhvqjv9eightnine48
+khkts8hcsfvhvqjv98948 -> 88
+
+pqxztthreeninelxhcxkjclk2
+pqxzt39lxhcxkjclk2 -> 32
+
+sixrmfpj6nine4zx
+6rmfpj694zx -> 64
+
+9xtvxkxpjv9
+9xtvxkxpjv9 -> 99
+
+cmtggbrckmmzffncttxsevenhphmhfgjsr85
+cmtggbrckmmzffncttx7hphmhfgjsr85 -> 75
+
+83s4
+83s4 -> 84
+
+26fivefivethreemstzpncmhfm
+26553mstzpncmhfm -> 23
+
+87eightfourgvmmfbknineone
+8784gvmmfbk91 -> 81
+
+bdxg2zszhcgtvtseventhmbvfive
+bdxg2zszhcgtvt7thmbv5 -> 25
+
+zeight8
+z88 -> 88
+
+eight78dcnq4jtz
+878dcnq4jtz -> 84
+
+67csrthree
+67csr3 -> 63
+
+3vqxtwonerts
+3vqxtw1rts -> 31
+
+1five3
+153 -> 13
+
+sevensixfournineksxkz9bkbgcrjjjhnineeight
+7649ksxkz9bkbgcrjjjh98 -> 78
+
+8seven29
+8729 -> 89
+
+9394
+9394 -> 94
+
+pkqxvl9vbjmqblrksjqcshpzpfrfouroneeightnine
+pkqxvl9vbjmqblrksjqcshpzpfr4189 -> 99
+
+heightwolgpplrbnhrgdkrk25crttkkzkbt
+h8wolgpplrbnhrgdkrk25crttkkzkbt -> 85
+
+6659eighttwoone
+6659821 -> 61
+
+55lzqzng2dmtpq45
+55lzqzng2dmtpq45 -> 55
+
+512gpmqpsqfive9eight
+512gpmqpsq598 -> 58
+
+eightsnxz58zrbh8fiveeight
+8snxz58zrbh858 -> 88
+
+six893ninerrxzj
+68939rrxzj -> 69
+
+twoflrzzcgninefqqlmmzzqgnjrcxcfour5ninetlcmc
+2flrzzcg9fqqlmmzzqgnjrcxc459tlcmc -> 29
+
+tmfkbgcssdcmkthmx1seven
+tmfkbgcssdcmkthmx17 -> 17
+
+6three9fourmdpzj
+6394mdpzj -> 64
+
+mgprpn68
+mgprpn68 -> 68
+
+xssxrtpntlkppxp958rzd2nine8
+xssxrtpntlkppxp958rzd298 -> 98
+
+fx15twoeighttfjlcglnbptwo66
+fx1528tfjlcglnbp266 -> 16
+
+threeseven522
+37522 -> 32
+
+xrjpstjr2
+xrjpstjr2 -> 22
+
+6eight1742oneighthhj
+681742on8hhj -> 68
+
+1ddfkgjrxfzrhnxtnvfqxdv4
+1ddfkgjrxfzrhnxtnvfqxdv4 -> 14
+
+8hlcxdpkrnrgfzmsschlhcbndkcvdszgqntl
+8hlcxdpkrnrgfzmsschlhcbndkcvdszgqntl -> 88
+
+five154sixfourqgffh
+515464qgffh -> 54
+
+5rsvtzgrvq1slrlgqksone6lns
+5rsvtzgrvq1slrlgqks16lns -> 56
+
+92sevenk3xfrvgddsthree4
+927k3xfrvgdds34 -> 94
+
+rctlcz67
+rctlcz67 -> 67
+
+2nmrbhnzpf7
+2nmrbhnzpf7 -> 27
+
+bjmssix1sevenfour4
+bjms61744 -> 64
+
+744ninefivefivejjcnpgrqxtrctwo
+744955jjcnpgrqxtrc2 -> 72
+
+r4five4
+r454 -> 44
+
+16two2
+1622 -> 12
+
+threefn8
+3fn8 -> 38
+
+3gmsrqtjm
+3gmsrqtjm -> 33
+
+one8tmlnlqvgfone5fivefive
+18tmlnlqvgf1555 -> 15
+
+1spllmone9three1xsssk5
+1spllm1931xsssk5 -> 15
+
+6rlqqblbrxh8
+6rlqqblbrxh8 -> 68
+
+41qqccnsevengbbrpgcqggtlhtzqcfqzhtx
+41qqccn7gbbrpgcqggtlhtzqcfqzhtx -> 47
+
+hzfivethreenine2
+hz5392 -> 52
+
+sixeightvcm4lngvkdlpz6dstz
+68vcm4lngvkdlpz6dstz -> 66
+
+twoeight34tv1
+2834tv1 -> 21
+
+tgqc6fqsftwoninexncjnrtcgcbrxdmnine
+tgqc6fqsf29xncjnrtcgcbrxdm9 -> 69
+
+8one27ninerjt3seven
+81279rjt37 -> 87
+
+1sjvxlzszhhsix
+1sjvxlzszhh6 -> 16
+
+2xxmpjsfbr
+2xxmpjsfbr -> 22
+
+7eight5eight5bzgdpkkpgrn
+78585bzgdpkkpgrn -> 75
+
+twozcrxdsix1lrxltrhvznine7twoone
+2zcrxd61lrxltrhvz9721 -> 21
+
+8qlfive8nlmthree39
+8ql58nlm339 -> 89
+
+4five5five7671
+45557671 -> 41
+
+4fiveqtrngqtbpd74
+45qtrngqtbpd74 -> 44
+
+vbccfjhjndeight1h
+vbccfjhjnd81h -> 81
+
+8kfzchkdvfgvlhqzfgseven
+8kfzchkdvfgvlhqzfg7 -> 87
+
+6ninexrxsvlmmzrsevenjhzzggfcxqrvfjtnjctveight9
+69xrxsvlmmzr7jhzzggfcxqrvfjtnjctv89 -> 69
+
+6fourfourfourxgrgqklnpcsjbsqvhnkjfcjdhdf
+6444xgrgqklnpcsjbsqvhnkjfcjdhdf -> 64
+
+65fpnfszb3
+65fpnfszb3 -> 63
+
+srnhthmpseven1four3rrpznf
+srnhthmp7143rrpznf -> 73
+
+vgmqr9zttpdrzjfiveninesevendfive
+vgmqr9zttpdrzj597d5 -> 95
+
+fournthreesevenseven72seven
+4n377727 -> 47
+
+9594
+9594 -> 94
+
+twolhvpfzbfsfourrrcpzzshd66grxddrmkvthree
+2lhvpfzbfs4rrcpzzshd66grxddrmkv3 -> 23
+
+seven5twotwolpsqlbcqpthree
+7522lpsqlbcqp3 -> 73
+
+29eightzjgsfmll
+298zjgsfmll -> 28
+
+gtkrjrsevenfbjcpjlsmqsfceightseven9
+gtkrjr7fbjcpjlsmqsfc879 -> 79
+
+qkbntcjvfl6three9qhpcptvpkfour7b
+qkbntcjvfl639qhpcptvpk47b -> 67
+
+gvkhmrljmhrpj956bzxhkljpvpxltctjvvpfjtsnb
+gvkhmrljmhrpj956bzxhkljpvpxltctjvvpfjtsnb -> 96
+
+rcqlnpcmng6l5vfkpddeightsevenfhmxzztndq
+rcqlnpcmng6l5vfkpdd87fhmxzztndq -> 67
+
+sptdrlsfxpsxff4five
+sptdrlsfxpsxff45 -> 45
+
+lrzhhxdrkdtbdjbsfourthreemmjjnn1
+lrzhhxdrkdtbdjbs43mmjjnn1 -> 41
+
+9sxthreethree
+9sx33 -> 93
+
+six9fourseven4
+69474 -> 64
+
+dpone9fshbbpcm8
+dp19fshbbpcm8 -> 18
+
+twoczqzvqkcnine6eight
+2czqzvqkc968 -> 28
+
+qbtkgxp1fourdz
+qbtkgxp14dz -> 14
+
+dxrrsdbmtpnl6hfdtj
+dxrrsdbmtpnl6hfdtj -> 66
+
+sixsvtwo8
+6sv28 -> 68
+
+5fxdkhbgqm8fouronefive5
+5fxdkhbgqm84155 -> 55
+
+jqj6lhtbjt
+jqj6lhtbjt -> 66
+
+6pdgrsdxghfkhptbjcrrjcsevenbksvmzvnninercz
+6pdgrsdxghfkhptbjcrrjc7bksvmzvn9rcz -> 69
+
+8rzqvh6ntlg2bfktcphztdkckjg7two
+8rzqvh6ntlg2bfktcphztdkckjg72 -> 82
+
+fivesixnine1
+5691 -> 51
+
+4beightsevenonetwothree8jx
+4b871238jx -> 48
+
+sixfourmvpk6fourtgknrjmxfftnmngjnine9
+64mvpk64tgknrjmxfftnmngj99 -> 69
+
+68seventwosnqsj
+6872snqsj -> 62
+
+g853seven7
+g85377 -> 87
+
+7ninejqslxmkxpbkxksjcjlnttslpcmsprvgnrxg
+79jqslxmkxpbkxksjcjlnttslpcmsprvgnrxg -> 79
+
+jmvqrhdcctwofivev6eightone
+jmvqrhdcc25v681 -> 21
+
+ninefiveseven9eighthbb7two
+95798hbb72 -> 92
+
+threethreethreerlgqzvsevenx3eight
+333rlgqzv7x38 -> 38
+
+xbkvgdsrhknine3blt
+xbkvgdsrhk93blt -> 93
+
+xzbcgjkkbk1two1zprpn3bcxxhlxjtx7eight
+xzbcgjkkbk121zprpn3bcxxhlxjtx78 -> 18
+
+3tflfncljtwo9
+3tflfnclj29 -> 39
+
+four3seven8one6
+437816 -> 46
+
+six7vqfive
+67vq5 -> 65
+
+ddhhgvrkzfhone8
+ddhhgvrkzfh18 -> 18
+
+fqtbnbvdvbklnkmpr89twotwo4
+fqtbnbvdvbklnkmpr89224 -> 84
+
+9two166eight4cfnsstwo
+9216684cfnss2 -> 92
+
+twofive88
+2588 -> 28
+
+nxpmbfiveeightqmtblmtzpjcnxnxjtwosixtwo9
+nxpmb58qmtblmtzpjcnxnxj2629 -> 59
+
+fourthreefivedone9jzhrbrzmdqkzmqzfklxq
+435d19jzhrbrzmdqkzmqzfklxq -> 49
+
+qbgpfsvlx1eightjsevensixfour
+qbgpfsvlx18j764 -> 14
+
+2sevenfqkeight2five
+27fqk825 -> 25
+
+sqnsvsevenrbkhgkbhmmqjztzvn3sevennkcghqqcckp
+sqnsv7rbkhgkbhmmqjztzvn37nkcghqqcckp -> 77
+
+eighthcrzxpjt1eightone
+8hcrzxpjt181 -> 81
+
+sixone2
+612 -> 62
+
+four56zqxr1lcmblzgdgqjnqb
+456zqxr1lcmblzgdgqjnqb -> 41
+
+q6hdldzmjh6ninevjm9
+q6hdldzmjh69vjm9 -> 69
+
+j82onek67
+j821k67 -> 87
+
+5njnffiveshlbqpqhzt
+5njnf5shlbqpqhzt -> 55
+
+97nineoneightcq
+979on8cq -> 98
+
+ffivetwo41vnzhfqmrd4
+f5241vnzhfqmrd4 -> 54
+
+two2fiveone1nftfhvzkpltvn4three
+22511nftfhvzkpltvn43 -> 23
+
+twofivethree7jlsjxgjfbvnlxhb
+2537jlsjxgjfbvnlxhb -> 27
+
+rmb4fourlmzgvfcsgn2five
+rmb44lmzgvfcsgn25 -> 45
+
+6dthkxkcdbssixdlrb38
+6dthkxkcdbs6dlrb38 -> 68
+
+qgbnpdpchmnnftqpeight9xlmlskqhc156drhpf
+qgbnpdpchmnnftqp89xlmlskqhc156drhpf -> 86
+
+sevensixsevenjqckcmg6sixxtgvrvm2sgtvrjrq
+767jqckcmg66xtgvrvm2sgtvrjrq -> 72
+
+4nnhmghrqrkcmfmqxtqxncljskfvmhfmgqfour
+4nnhmghrqrkcmfmqxtqxncljskfvmhfmgq4 -> 44
+
+dlpqjk2fivesix7
+dlpqjk2567 -> 27
+
+onegtddk5vzgpndqp2five
+1gtddk5vzgpndqp25 -> 15
+
+qsslgone4onelbnbckznrfnjmsgz
+qsslg141lbnbckznrfnjmsgz -> 11
+
+pvqdbhjgqrgbqkzgpdbmvninekhvfrmpchhxm2
+pvqdbhjgqrgbqkzgpdbmv9khvfrmpchhxm2 -> 92
+
+tpxvskgzgnnvmnfncvqxxtkmm75vfgmxr4zbpdmdseven
+tpxvskgzgnnvmnfncvqxxtkmm75vfgmxr4zbpdmd7 -> 77
+
+ssnqndqxsevenxztmfq64
+ssnqndqx7xztmfq64 -> 74
+
+mcxmhtnbczdfnstjn31six
+mcxmhtnbczdfnstjn316 -> 36
+
+twosixfz5jvbxxlhdklbp1
+26fz5jvbxxlhdklbp1 -> 21
+
+five4six952
+546952 -> 52
+
+vmnhjm3rzgglnmzj318
+vmnhjm3rzgglnmzj318 -> 38
+
+dcnprh12qnmmqnvhkrhtrnxs5
+dcnprh12qnmmqnvhkrhtrnxs5 -> 15
+
+5b
+5b -> 55
+
+mkfgxmvsixeight5
+mkfgxmv685 -> 65
+
+crzdkbjthreeone287fourpgzqldn
+crzdkbj312874pgzqldn -> 34
+
+2cgdd
+2cgdd -> 22
+
+seven8oneeightllqtfbdtmdnvlcsfh5
+7818llqtfbdtmdnvlcsfh5 -> 75
+
+4seven1zqponeeightlplm
+471zqp18lplm -> 48
+
+c7sevendvmxlfpnr6
+c77dvmxlfpnr6 -> 76
+
+eightlkhjgqj6
+8lkhjgqj6 -> 86
+
+njvmgjdmx2
+njvmgjdmx2 -> 22
+
+9six7
+967 -> 97
+
+3cfbjptcp5one8four
+3cfbjptcp5184 -> 34
+
+eight6kxc8one
+86kxc81 -> 81
+
+6sevenlpbdcgbhxsixfourseven7
+67lpbdcgbhx6477 -> 67
+
+4sixeightsix9hq
+46869hq -> 49
+
+6eightb
+68b -> 68
+
+8eight86jkrdgmxdfourthree
+8886jkrdgmxd43 -> 83
+
+4dxczptzbvjfive56eight
+4dxczptzbvj5568 -> 48
+
+seven3threerpqhsqspsdpvxj2sevensndcxn
+733rpqhsqspsdpvxj27sndcxn -> 77
+
+zqcbcseventwo4gh16jksxkphgf
+zqcbc724gh16jksxkphgf -> 76
+
+44tfour7br
+44t47br -> 47
+
+five266five93seven1
+526659371 -> 51
+
+prsbtlbninendbpzv5xx5
+prsbtlb9ndbpzv5xx5 -> 95
+
+6three2nqgtrlkfxn
+632nqgtrlkfxn -> 62
+
+ninefourxkrsgshmdd78six7nine
+94xkrsgshmdd78679 -> 99
+
+gnkphdvhqk74fptcqgp
+gnkphdvhqk74fptcqgp -> 74
+
+cfdmp2
+cfdmp2 -> 22
+
+fzhhdclzncxmg26nineeight4
+fzhhdclzncxmg26984 -> 24
+
+seventworlcqhfq2qrfiveqqgmmzdpntfm
+72rlcqhfq2qr5qqgmmzdpntfm -> 75
+
+onedvsbvstdshtlzs6sixfive
+1dvsbvstdshtlzs665 -> 15
+
+qjfbtdtcknthreeeightsix71
+qjfbtdtckn38671 -> 31
+
+2ninesixscdxtwo
+296scdx2 -> 22
+
+threerlpjxlzsr9qqzmfbzdtnknn2four
+3rlpjxlzsr9qqzmfbzdtnknn24 -> 34
+
+8kxxljngrqsgkxcnlhrlxxfgl57fql7
+8kxxljngrqsgkxcnlhrlxxfgl57fql7 -> 87
+
+vhrjlgqjnnthree4four8fivebfourffcnbghnz
+vhrjlgqjnn34485b4ffcnbghnz -> 34
+
+5jb5oneoneonebseven
+5jb5111b7 -> 57
+
+kbkv3three4rgdkdzkrkk
+kbkv334rgdkdzkrkk -> 34
+
+eightxhxzkbhjxsvfsjfbzghktvlqhseven2xkslcrfsgdc
+8xhxzkbhjxsvfsjfbzghktvlqh72xkslcrfsgdc -> 82
+
+sevenone6rmkcvfour6jhvhz
+716rmkcv46jhvhz -> 76
+
+threenhfprcngzhcqckchphcninecmqvczqt5
+3nhfprcngzhcqckchphc9cmqvczqt5 -> 35
+
+foureight6
+486 -> 46
+
+7fkrgmdrxgdkfpvxkns9
+7fkrgmdrxgdkfpvxkns9 -> 79
+
+5onetwoqnp
+512qnp -> 52
+
+nine73dbfljgnninecdgxrgkdlsqzflbtwo
+973dbfljgn9cdgxrgkdlsqzflb2 -> 92
+
+five3jcsevenfour8sevenjgfxkfgnlzbkb
+53jc7487jgfxkfgnlzbkb -> 57
+
+lqtvkrfour67gdnrhkfvzgfoureightone
+lqtvkr467gdnrhkfvzg481 -> 41
+
+kct1pljt8seven
+kct1pljt87 -> 17
+
+six269two
+62692 -> 62
+
+64k
+64k -> 64
+
+41ggbblvhs726
+41ggbblvhs726 -> 46
+
+mbvfq5gghsxtwomngfczfdpb1seven
+mbvfq5gghsx2mngfczfdpb17 -> 57
+
+4ggzmdpbkrczhmmrk5
+4ggzmdpbkrczhmmrk5 -> 45
+
+317
+317 -> 37
+
+pxtgbfnfhqgncrsgtf7sixfour
+pxtgbfnfhqgncrsgtf764 -> 74
+
+dvqnfourcsnmcxnxq7ghmjbgmct
+dvqn4csnmcxnxq7ghmjbgmct -> 47
+
+vnskfrdcjdoneddjpkcj7fourjjlllonepxlpjkzbzfour
+vnskfrdcjd1ddjpkcj74jjlll1pxlpjkzbz4 -> 14
+
+hbdjzfbvrthreekxmlkm49
+hbdjzfbvr3kxmlkm49 -> 39
+
+trptone5bpsxgl
+trpt15bpsxgl -> 15
+
+5one1
+511 -> 51
+
+sixsixfzgbninecxssl9
+66fzgb9cxssl9 -> 69
+
+six7xdnsdgsix4
+67xdnsdg64 -> 64
+
+fivefive84fxrzgk4eight81
+5584fxrzgk4881 -> 51
+
+zszvqhms8sstxvfz
+zszvqhms8sstxvfz -> 88
+
+3one3sixbmxbfsdbdtmh
+3136bmxbfsdbdtmh -> 36
+
+qnfgnjgcv6two57
+qnfgnjgcv6257 -> 67
+
+5676xzlbzk485seven
+5676xzlbzk4857 -> 57
+
+five8dbbtpxctf
+58dbbtpxctf -> 58
+
+two1gntvjr
+21gntvjr -> 21
+
+77one
+771 -> 71
+
+vlnkqvczts5tkghpvthree6krgszgx4
+vlnkqvczts5tkghpv36krgszgx4 -> 54
+
+nine2threefoureight
+92348 -> 98
+
+foursevenhc3twofour
+47hc324 -> 44
+
+9zzgqfzmfpsfn
+9zzgqfzmfpsfn -> 99
+
+ghb57sixeightwofqc
+ghb5768wofqc -> 58
+
+6twovninejckdhmcsxkfoursix5
+62v9jckdhmcsxk465 -> 65
+
+oneqxljxjhnineppln419
+1qxljxjh9ppln419 -> 19
+
+one2zlfsxrkfourthreexl7
+12zlfsxrk43xl7 -> 17
+
+nqbtczpblq856one6
+nqbtczpblq85616 -> 86
+
+3cxmmzlh1
+3cxmmzlh1 -> 31
+
+frjsdskzk79lcxvjqqdnlqsmbpbdxrxthreeseven
+frjsdskzk79lcxvjqqdnlqsmbpbdxrx37 -> 77
+
+twoone457fivetbq4
+214575tbq4 -> 24
+
+fourtvbdksxsjxzgdk77
+4tvbdksxsjxzgdk77 -> 47
+
+fourgbvdlpbgztwoftmkjkkmthreesix1
+4gbvdlpbgz2ftmkjkkm361 -> 41
+
+nhrqfbzggrskfgmnbg7sevenfzrnlxfbtc
+nhrqfbzggrskfgmnbg77fzrnlxfbtc -> 77
+
+foursevenmdrnfqsn4jvnrntwo29
+47mdrnfqsn4jvnrn229 -> 49
+
+fivevzvszgqvqp6627zqnk
+5vzvszgqvqp6627zqnk -> 57
+
+15fcvczdlqprxjzhgbxpxs5
+15fcvczdlqprxjzhgbxpxs5 -> 15
+
+9fourfivejsgvnf9five
+945jsgvnf95 -> 95
+
+kzlndjrn8rgq
+kzlndjrn8rgq -> 88
+
+spfqqx3sevenoneldqnqbmspvsixfiveninezmvks
+spfqqx371ldqnqbmspv659zmvks -> 39
+
+oneseven5
+175 -> 15
+
+2eightfour5bqbmsnhmtfivebss
+2845bqbmsnhmt5bss -> 25
+
+ninejnckkvseven4
+9jnckkv74 -> 94
+
+jzhfcmvb8fiveqgq18fivevlpgdnkbq
+jzhfcmvb85qgq185vlpgdnkbq -> 85
+
+67four
+674 -> 64
+
+grzpdtl9
+grzpdtl9 -> 99
+
+lzf8fivedr2fivevbpldcone
+lzf85dr25vbpldc1 -> 81
+
+nine4bdfptdffgkssltwopl
+94bdfptdffgkssl2pl -> 92
+
+eightlvgfhfbsqrdjrskqkprdlltnzzpfhnczsonetwo5eight
+8lvgfhfbsqrdjrskqkprdlltnzzpfhnczs1258 -> 88
+
+7xqfgzglblftvsqqbgpfmthreesix9jfl2
+7xqfgzglblftvsqqbgpfm369jfl2 -> 72
+
+eightgngsvqvrhgmvhtqhbpdeightfour6
+8gngsvqvrhgmvhtqhbpd846 -> 86
+
+1bqvpnggbdrfoureightxmclfpfqgjssrpflnzl
+1bqvpnggbdr48xmclfpfqgjssrpflnzl -> 18
+
+eightfive1qvhhthk9ninetwo
+851qvhhthk992 -> 82
+
+six36fourfivefivezsvndsl5four
+636455zsvndsl54 -> 64
+
+jnpzplgbqf6tlzpsgvzhtnkdvhzhbvhps5
+jnpzplgbqf6tlzpsgvzhtnkdvhzhbvhps5 -> 65
+
+cldz3bfpvdxjmc
+cldz3bfpvdxjmc -> 33
+
+dpponeseven48sevennineeightrkn
+dpp1748798rkn -> 18
+
+five3fournine
+5349 -> 59
+
+2xcckljnjz98mjjscfjsxsevenqhxrqvqmbvhzgkc
+2xcckljnjz98mjjscfjsx7qhxrqvqmbvhzgkc -> 27
+
+sixtwo66469
+6266469 -> 69
+
+79four5eight
+79458 -> 78
+
+jxqktt47
+jxqktt47 -> 47
+
+eight36
+836 -> 86
+
+rsjlmlj5oneightc
+rsjlmlj5on8c -> 58
+
+xczzpjknphtspmh7eightvfzjjk2five
+xczzpjknphtspmh78vfzjjk25 -> 75
+
+kmznfcxhsn8fivethreexnineone2
+kmznfcxhsn853x912 -> 82
+
+four6six
+466 -> 46
+
+2hhnine627
+2hh9627 -> 27
+
+eightnine1vkdpgvxgm
+891vkdpgvxgm -> 81
+
+8three6pvtqmfdxdkxps
+836pvtqmfdxdkxps -> 86
+
+7frnthree
+7frn3 -> 73
+
+78tworhldxeighttphp
+782rhldx8tphp -> 78
+
+dcmv6vvfbzjdtphbpssjnnqdmrgzgkfdveightwov
+dcmv6vvfbzjdtphbpssjnnqdmrgzgkfdv8wov -> 68
+
+zsbmctdseven1snxmqxzgsix9
+zsbmctd71snxmqxzg69 -> 79
+
+lxtwo4sevenxsix
+lx247x6 -> 26
+
+tkdkqfpj5eightq8two447
+tkdkqfpj58q82447 -> 57
+
+seven1onesixfivest
+71165st -> 75
+
+45six5sevenseven
+456577 -> 47
+
+jpxxdjphzskpbrllninexmmmdxrznzthreecvsmjssmfxczhm5
+jpxxdjphzskpbrll9xmmmdxrznz3cvsmjssmfxczhm5 -> 95
+
+4flhfqlphfcnn9sevenx3
+4flhfqlphfcnn97x3 -> 43
+
+16ttrmgqninefsgvkt5four
+16ttrmgq9fsgvkt54 -> 14
+
+3snfkm
+3snfkm -> 33
+
+6threetwoglgkbqjlsn4fivehcgfour
+632glgkbqjlsn45hcg4 -> 64
+
+ninesixfive1ninelgdmhkqrvn
+96519lgdmhkqrvn -> 99
+
+two3pxvlsheight
+23pxvlsh8 -> 28
+
+two51
+251 -> 21
+
+sixninezkbfbxgzznlgtpxgcpzvgkczdbfive8three
+69zkbfbxgzznlgtpxgcpzvgkczdb583 -> 63
+
+fourjljzqgbsthreeqjdgsqpspnsixxnglmkss5m
+4jljzqgbs3qjdgsqpspn6xnglmkss5m -> 45
+
+32sevenctqtqrqlsfourfoursixrcjztxx
+327ctqtqrqls446rcjztxx -> 36
+
+8qlccjngpt
+8qlccjngpt -> 88
+
+2eight58five
+28585 -> 25
+
+1ninesevenxtlbrq6
+197xtlbrq6 -> 16
+
+9fivevkmm8tgxfkzvgq
+95vkmm8tgxfkzvgq -> 98
+
+53txg
+53txg -> 53
+
+3xqmjvxkcbjf2
+3xqmjvxkcbjf2 -> 32
+
+2fhndgqnqd5
+2fhndgqnqd5 -> 25
+
+2vnrpjdb6four79
+2vnrpjdb6479 -> 29
+
+7four5
+745 -> 75
+
+foursix5hdcg489ninerncnk
+465hdcg4899rncnk -> 49
+
+6s2jd
+6s2jd -> 62
+
+fournine8ninejn6rkknh5
+4989jn6rkknh5 -> 45
+
+fcfxflzv7seven7
+fcfxflzv777 -> 77
+
+1fournineqzknrvfhdxfoureight4seveneightwobr
+149qzknrvfhdx48478wobr -> 18
+
+1two3
+123 -> 13
+
+twombl5
+2mbl5 -> 25
+
+fourzjh9six
+4zjh96 -> 46
+
+1ljrvbrqpcchb
+1ljrvbrqpcchb -> 11
+
+11rvqfmcxgg
+11rvqfmcxgg -> 11
+
+fiveoneggjpmdt2t
+51ggjpmdt2t -> 52
+
+nnjdzhdrkvhpxnprlfrhxpbtpbdxm1xfshdr
+nnjdzhdrkvhpxnprlfrhxpbtpbdxm1xfshdr -> 11
+
+five39threehhrhsrhhqkjt9
+5393hhrhsrhhqkjt9 -> 59
+
+hm8nine
+hm89 -> 89
+
+3ldckgksm48xc2seven8gbzfq
+3ldckgksm48xc278gbzfq -> 38
+
+sixqpcqjzqxsjhr7
+6qpcqjzqxsjhr7 -> 67
+
+kthreethreelmjfour485
+k33lmj4485 -> 35
+
+mnggrsbbnh1
+mnggrsbbnh1 -> 11
+
+xfn5
+xfn5 -> 55
+
+qzlxtczqlvninekjnbnonefcbqqgfmqf66xpvjgfzjgxvjrcqmzx
+qzlxtczqlv9kjnbn1fcbqqgfmqf66xpvjgfzjgxvjrcqmzx -> 96
+
+krsfvctzfhonejxtqbbnd7eight
+krsfvctzfh1jxtqbbnd78 -> 18
+
+tjhgbtqtwoljone9
+tjhgbtq2lj19 -> 29
+
+mdfntzfpg1fiveninecvxrfnine2
+mdfntzfpg159cvxrf92 -> 12
+
+7hcrxzc
+7hcrxzc -> 77
+
+6two6plgrmbnine9sdbvgtnj
+626plgrmb99sdbvgtnj -> 69
+
+threenine4fthstfjzzp
+394fthstfjzzp -> 34
+
+6eighteight9npghczggthreectqssdtp
+6889npghczgg3ctqssdtp -> 63
+
+flc4gtqsjmrddx8eightseven
+flc4gtqsjmrddx887 -> 47
+
+threeone1oneone7
+311117 -> 37
+
+gfbfjzltcjfkkrsprgtpfive4
+gfbfjzltcjfkkrsprgtp54 -> 54
+
+sixrdzp2onesevenrqrtldnq4c
+6rdzp217rqrtldnq4c -> 64
+
+sevenktwo3threeeightthreenhnmpdmlqjnvl
+7k23383nhnmpdmlqjnvl -> 73
+
+4eight82717
+4882717 -> 47
+
+nrhqqkmkeightthreenzqbgcphoneseven7
+nrhqqkmk83nzqbgcph177 -> 87
+
+twoprrgggznzffour5bbrdsvtgkkrbl5nlrkpjmnbzgsbtl
+2prrgggznzf45bbrdsvtgkkrbl5nlrkpjmnbzgsbtl -> 25
+
+28pvjrszmrdntp4nqdnhkdrtwoxr
+28pvjrszmrdntp4nqdnhkdr2xr -> 22
+
+sixsix9five4
+66954 -> 64
+
+lxchg91threethree74
+lxchg913374 -> 94
+
+6bmxblxdkghqdjqgqbrqtxknvdsevenztgspsfh83
+6bmxblxdkghqdjqgqbrqtxknvd7ztgspsfh83 -> 63
+
+39bsspvhslzkmrnzxtlxsbhk4
+39bsspvhslzkmrnzxtlxsbhk4 -> 34
+
+74seveneight9ninedgzgjdvxgvrnfz
+747899dgzgjdvxgvrnfz -> 79
+
+fourxvvqsfktptjbsb69
+4xvvqsfktptjbsb69 -> 49
+
+rxsevenfive5vx9
+rx755vx9 -> 79
+
+72six7
+7267 -> 77
+
+five5lcxv2jvsssxqjtmzclfdfourfive
+55lcxv2jvsssxqjtmzclfd45 -> 55
+
+87three9
+8739 -> 89
+
+6rckksfour413331
+6rckks4413331 -> 61
+
+33gtz
+33gtz -> 33
+
+xkmxtvzhgxqqmknn9pzhgjxqseight
+xkmxtvzhgxqqmknn9pzhgjxqs8 -> 98
+
+8threefivedrtlgrnqfouroneq
+835drtlgrnq41q -> 81
+
+6snzkxjcfive62dqtqmtwoxnine
+6snzkxjc562dqtqm2x9 -> 69
+
+zxtjclonefour1eight5eight1
+zxtjcl1418581 -> 11
+
+qlffthreeseven2three
+qlff3723 -> 33
+
+xfppngbg5six3two8nine
+xfppngbg563289 -> 59
+
+ninesevensevencfhppvhdnfour8
+977cfhppvhdn48 -> 98
+
+xhvnm1
+xhvnm1 -> 11
+
+9threecbdccktrkfourfour9twoneqd
+93cbdccktrk449tw1qd -> 91
+
+1five4fivenine
+15459 -> 19
+
+jcscpdtzk757nine8
+jcscpdtzk75798 -> 78
+
+sevenninesixxkzzzbfour2three
+796xkzzzb423 -> 73
+
+sixthreetwovfqxtbvcrrjtwo3four9
+632vfqxtbvcrrj2349 -> 69
+
+nzdjhtlqfnxmrzvgrzkfmm7mhmvbbxfd
+nzdjhtlqfnxmrzvgrzkfmm7mhmvbbxfd -> 77
+
+3seven2eight99
+372899 -> 39
+
+two6nineljvxs5eightseven3
+269ljvxs5873 -> 23
+
+55fivezgbmcdpv
+555zgbmcdpv -> 55
+
+hkgvvrtrtwopjbqhtts8seven
+hkgvvrtr2pjbqhtts87 -> 27
+
+c138
+c138 -> 18
+
+mnrnhqtzthreesnnj2
+mnrnhqtz3snnj2 -> 32
+
+81
+81 -> 81
+
+qscxbblvsxsgtcpr4cphmxgmbrb
+qscxbblvsxsgtcpr4cphmxgmbrb -> 44
+
+4six2mrvdpxqvhngrrzhjdjfp
+462mrvdpxqvhngrrzhjdjfp -> 42
+
+4tmrlmdfivefivethree7
+4tmrlmd5537 -> 47
+
+363
+363 -> 33
+
+8488one
+84881 -> 81
+
+827pcxnhpk
+827pcxnhpk -> 87
+
+ckbdqdvhdd4hrb9nnghltwo
+ckbdqdvhdd4hrb9nnghl2 -> 42
+
+5onecjjfdfrxppqkhrpthree5lr4
+51cjjfdfrxppqkhrp35lr4 -> 54
+
+62lvlsp2sixfive5
+62lvlsp2655 -> 65
+
+czxfkhcbvcdhdzx2
+czxfkhcbvcdhdzx2 -> 22
+
+jzdgngb68
+jzdgngb68 -> 68
+
+fourtwo18pxkttcr8four
+4218pxkttcr84 -> 44
+
+bkttjvvmxvzkhmxtpqrxxhslstwo6five22
+bkttjvvmxvzkhmxtpqrxxhsls26522 -> 22
+
+four26mcvb2fivepone
+426mcvb25p1 -> 41
+
+dzptwo5ninejgjrfour
+dzp259jgjr4 -> 24
+
+nrhqqnjfour9four
+nrhqqnj494 -> 44
+
+ffoneightpxp41six
+ffon8pxp416 -> 86
+
+threeninehzmrh8dzvmpgrhsv
+39hzmrh8dzvmpgrhsv -> 38
+
+5onefour5
+5145 -> 55
+
+jdl5fourtwo8
+jdl5428 -> 58
+
+threefour8seventwo1seven
+3487217 -> 37
+
+lvkjd6five6fxkfthxkgmfour6
+lvkjd656fxkfthxkgm46 -> 66
+
+three3seventhreepbsgc
+3373pbsgc -> 33
+
+7threethree6fgmfgcv6glrk
+7336fgmfgcv6glrk -> 76
+
+nine3five
+935 -> 95
+
+54one9
+5419 -> 59
+
+jhvqhrvqfrfgpdrh3three5
+jhvqhrvqfrfgpdrh335 -> 35
+
+3psztbfour4
+3psztb44 -> 34
+
+nlffive1nxcqpfour232
+nlf51nxcqp4232 -> 52
+
+3threetwosgsbdjnt
+332sgsbdjnt -> 32
+
+dtfstb1qhggj
+dtfstb1qhggj -> 11
+
+qnnp9twojdg4kfzvtbsevenfour
+qnnp92jdg4kfzvtb74 -> 94
+
+qfnmdkfkpndd36sixsixfourseven
+qfnmdkfkpndd366647 -> 37
+
+8seven7oneseven9x4five
+877179x45 -> 85
+
+4847onetgmsbjjqhtfiveksmmlftk
+48471tgmsbjjqht5ksmmlftk -> 45
+
+fivesixlklrnhtdfg3
+56lklrnhtdfg3 -> 53
+
+cpcqone1pnxkhrkdhhzheightlpb5three
+cpcq11pnxkhrkdhhzh8lpb53 -> 13
+
+eighttwo6
+826 -> 86
+
+seven2fourfourvfzxqbh7
+7244vfzxqbh7 -> 77
+
+frf1fivesix3snnlpgpc7
+frf1563snnlpgpc7 -> 17
+
+svtvfcsevenhszznbzpfiveeight2
+svtvfc7hszznbzp582 -> 72
+
+lqpqzthree5mcmzpqlxkgpssix
+lqpqz35mcmzpqlxkgps6 -> 36
+
+9sltfzqsczpjbndmqbccgmq
+9sltfzqsczpjbndmqbccgmq -> 99
+
+5six9fourxppzkgbj6
+5694xppzkgbj6 -> 56
+
+8dqhklnxseven1
+8dqhklnx71 -> 81
+
+3two4
+324 -> 34
+
+ktvlhmq3xzmcztbplxlqzpqmoneightffd
+ktvlhmq3xzmcztbplxlqzpqmon8ffd -> 38
+
+76dklx7two8nine5vgvh
+76dklx72895vgvh -> 75
+
+xmgjgfz4
+xmgjgfz4 -> 44
+
+two7tcnceight9
+27tcnc89 -> 29
+
+ninecvfgpbrqcgvplt32six
+9cvfgpbrqcgvplt326 -> 96
+
+g3rcbzqxnjllqoneklpbjzbqbseven
+g3rcbzqxnjllq1klpbjzbqb7 -> 37
+
+svkf8ggdnmeighthhjlz3four
+svkf8ggdnm8hhjlz34 -> 84
+
+hfdb44zqjmxbrft3qrpgvjngc1
+hfdb44zqjmxbrft3qrpgvjngc1 -> 41
+
+dzsbnsrg35tm
+dzsbnsrg35tm -> 35
+
+qchpdcg2
+qchpdcg2 -> 22
+
+9775fcg91
+9775fcg91 -> 91
+
+gdrhdgmfdk77eight
+gdrhdgmfdk778 -> 78
+
+14bsixthreeseven
+14b637 -> 17
+
+two1twoninepkkvhlzlt3
+2129pkkvhlzlt3 -> 23
+
+kvslhphhj9fourvljqbfive
+kvslhphhj94vljqb5 -> 95
+
+8nc6
+8nc6 -> 86
+
+qg7six
+qg76 -> 76
+
+7vkgv8
+7vkgv8 -> 78
+
+td5fivefive
+td555 -> 55
+
+xvfour8jttrsvvjkkdxxzjsl
+xv48jttrsvvjkkdxxzjsl -> 48
+
+7qbgdfkj4fourfivenmqtfmgeight
+7qbgdfkj445nmqtfmg8 -> 78
+
+eightfourdzxpfggzxcqrmtxnggchlqtwokcnrdhqf1
+84dzxpfggzxcqrmtxnggchlq2kcnrdhqf1 -> 81
+
+lbhcptlfhflgthreefive9cpprdlbv
+lbhcptlfhflg359cpprdlbv -> 39
+
+nine7941cfxnxszfivebm
+97941cfxnxsz5bm -> 95
+
+ninenhgpj7fourfour9
+9nhgpj7449 -> 99
+
+456xg
+456xg -> 46
+
+ninethreesqdp11four32lgdl
+93sqdp11432lgdl -> 92
+
+38trrgt7
+38trrgt7 -> 37
+
+tnhhxlm3rvzvxmmcgpxm
+tnhhxlm3rvzvxmmcgpxm -> 33
+
+oneqtmg25snbgzfhtkq8hdlvszrclcsrhqsdn
+1qtmg25snbgzfhtkq8hdlvszrclcsrhqsdn -> 18
+
+3cjndzmkfx
+3cjndzmkfx -> 33
+
+clxvdv7seven
+clxvdv77 -> 77
+
+five6three1
+5631 -> 51
+
+8sixfour36seven9mlxmrx7
+8643679mlxmrx7 -> 87
+
+vdrk27jnrbrvdrnine2nvnlkcszoneightchk
+vdrk27jnrbrvdr92nvnlkcszon8chk -> 28
+
+67drgjqrqdktplq
+67drgjqrqdktplq -> 67
+
+36pprvngxrrjtnpffmrxxdl
+36pprvngxrrjtnpffmrxxdl -> 36
+
+hkkrgxtpvzzmcrfcbcjzbpnvls88hrxl
+hkkrgxtpvzzmcrfcbcjzbpnvls88hrxl -> 88
+
+b4jkeightsevenmxkdpvdpt857
+b4jk87mxkdpvdpt857 -> 47
+
+6eighteight2four
+68824 -> 64
+
+eights73five
+8s735 -> 85
+
+fiveslpjvzjlpvzone41nine
+5slpjvzjlpvz1419 -> 59
+
+smnmlrxx7
+smnmlrxx7 -> 77
+
+onesixfive4
+1654 -> 14
+
+8s75eightone
+8s7581 -> 81
+
+1fivecpqsxm
+15cpqsxm -> 15
+
+99743ninesix
+9974396 -> 96
+
+twopzflcvxsgzn1v8
+2pzflcvxsgzn1v8 -> 28
+
+9three49
+9349 -> 99
+
+two2sevenf8sixvdpxzgxbmkrz2
+227f86vdpxzgxbmkrz2 -> 22
+
+sevenfive6shhbqhgqqhstdrnfxsjtjvnine
+756shhbqhgqqhstdrnfxsjtjv9 -> 79
+
+kzqsvn29s
+kzqsvn29s -> 29
+
+threenlrrhz4ttqljvr
+3nlrrhz4ttqljvr -> 34
+
+qx9sfdx
+qx9sfdx -> 99
+
+nhsbgsvvp7
+nhsbgsvvp7 -> 77
+
+876eightfivetprjjbxhzbfpqgltt1
+87685tprjjbxhzbfpqgltt1 -> 81
+
+six3xdjtphrm1pbjvjfn
+63xdjtphrm1pbjvjfn -> 61
+
+nflcpmjpt6six9two6xvbmbm
+nflcpmjpt66926xvbmbm -> 66
+
+fmlglbgmhvseven4nnkkgcmbv9chmthxvztgsevenbtzs
+fmlglbgmhv74nnkkgcmbv9chmthxvztg7btzs -> 77
+
+7bkmchf4five
+7bkmchf45 -> 75
+
+xgglktnbeight183twonine
+xgglktnb818329 -> 89
+
+onecbpdv9
+1cbpdv9 -> 19
+
+fhhmddrnlnkvlb5drtcbrjprzcqlj7mgspc
+fhhmddrnlnkvlb5drtcbrjprzcqlj7mgspc -> 57
+
+7threexkfjklvzcfourtnrgmpveightfour8
+73xkfjklvzc4tnrgmpv848 -> 78
+
+6rhmcblhfourtwo3two
+6rhmcblh4232 -> 62
+
+one4fiveonenine
+14519 -> 19
+
+slksfchvlgblninefszfbksddgvd4
+slksfchvlgbl9fszfbksddgvd4 -> 94
+
+four742sbseven3lk
+4742sb73lk -> 43
+
+8qbchrfldtvppv6fourzfivez
+8qbchrfldtvppv64z5z -> 85
+
+ninephsmnnvsfour1
+9phsmnnvs41 -> 91
+
+one5kvcrtnc5sixonehjfxnsixfqhzjj
+15kvcrtnc561hjfxn6fqhzjj -> 16
+
+8drgrzngh
+8drgrzngh -> 88
+
+16eight8rczbjmblhn
+1688rczbjmblhn -> 18
+
+threejpgjbpfdbvgdpftwo96
+3jpgjbpfdbvgdpf296 -> 36
+
+sfkhvjgd2smgfkr9two27
+sfkhvjgd2smgfkr9227 -> 27
+
+threeqpdeight3
+3qpd83 -> 33
+
+threesevenxblrmqkvzvrbhsix4
+37xblrmqkvzvrbh64 -> 34
+
+9seven2vlhsninenvptdvmrpzbrlpfhfnl
+972vlhs9nvptdvmrpzbrlpfhfnl -> 99
+
+xkjpdpgsrtvlfg1eight
+xkjpdpgsrtvlfg18 -> 18
+
+seven254
+7254 -> 74
+
+three8fnmcfhrdtjdlpfqlqhgx
+38fnmcfhrdtjdlpfqlqhgx -> 38
+
+21bkjv54s8
+21bkjv54s8 -> 28
+
+82ddfour6vcggxhlmpfivesix
+82dd46vcggxhlmp56 -> 86
+
+cdsbgtpqthreefivel8nine
+cdsbgtpq35l89 -> 39
+
+5five5cksct7bvjbtdjkcz
+555cksct7bvjbtdjkcz -> 57
+
+64fhm
+64fhm -> 64
+
+tqk5
+tqk5 -> 55
+
+3mhzkhtfzscpgfctfskdn2five
+3mhzkhtfzscpgfctfskdn25 -> 35
+
+cvmvthreez8fivegvcbsxj35nfxdshqz
+cvmv3z85gvcbsxj35nfxdshqz -> 35
+
+sevenqlqmkhdjpmsjrtggqzfive35scmnfpmhmp
+7qlqmkhdjpmsjrtggqz535scmnfpmhmp -> 75
+
+sixfive2
+652 -> 62
+
+6sevensvqhhfivetwo
+67svqhh52 -> 62
+
+eightthree84
+8384 -> 84
+
+82six8
+8268 -> 88
+
+8bbhrkzgtg59cpgdvb
+8bbhrkzgtg59cpgdvb -> 89
+
+11three3hfjkvmsl
+1133hfjkvmsl -> 13
+
+qdljkm792
+qdljkm792 -> 72
+
+eightgq5xgskvtpgmhxsnhzlqhnksxflvx
+8gq5xgskvtpgmhxsnhzlqhnksxflvx -> 85
+
+ghdhv1seventhree55fourthreemrlhq
+ghdhv1735543mrlhq -> 13
+
+oneonethree3zm
+1133zm -> 13
+
+3twobsxqfsfnine
+32bsxqfsf9 -> 39
+
+eightsbznkpzsqqtpxfhlfr5
+8sbznkpzsqqtpxfhlfr5 -> 85
+
+sevenchs2twoeight
+7chs228 -> 78
+
+ninezjtxp7bpzdgtoneeightoneighth
+9zjtxp7bpzdgt18on8h -> 98
+
+fmkbvzzgvl46fiveoneightqn
+fmkbvzzgvl465on8qn -> 48
+
+kvsonevxtmmxnfour4lpxjrbcfoursixp
+kvs1vxtmmxn44lpxjrbc46p -> 16
+
+391onelktkfd1three2twonels
+3911lktkfd132tw1ls -> 31
+
+pn2
+pn2 -> 22
+
+3cmsmfvjchflngkrbtsfrblltwo
+3cmsmfvjchflngkrbtsfrbll2 -> 32
+
+eightfour8ninesix29
+8489629 -> 89
+
+dpdvnonefour2eightbzzrvthmkgfcdv5
+dpdvn1428bzzrvthmkgfcdv5 -> 15
+
+59sfiverboneone3
+59s5rb113 -> 53
+
+6xrqq1
+6xrqq1 -> 61
+
+9bczfbfbhkntmdmseven68
+9bczfbfbhkntmdm768 -> 98
+
+npqm35qszmptx
+npqm35qszmptx -> 35
+
+fivepkdlmonefivesixz252
+5pkdlm156z252 -> 52
+
+dzrtwonetbbv9twovrsp
+dzrtw1tbbv92vrsp -> 12
+
+fpkfourfivendkhz6five
+fpk45ndkhz65 -> 45
+
+86dknvgcnmcslmztwo3
+86dknvgcnmcslmz23 -> 83
+
+fivetxrrzjpb6tqseightjthnhn
+5txrrzjpb6tqs8jthnhn -> 58
+
+362zhtxdgvcdgnzv55
+362zhtxdgvcdgnzv55 -> 35
+
+eightsevenbllbgvdonethreeprglpjhxhqfdn6csnghrtl
+87bllbgvd13prglpjhxhqfdn6csnghrtl -> 86
+
+5fourc
+54c -> 54
+
+8fournine3svdlh5sevenoneighttsq
+8493svdlh57on8tsq -> 88
+
+eightjkqmgljpprcpblvrthreeseven8fourone7
+8jkqmgljpprcpblvr378417 -> 87
+
+vqrqlhmb9seven231vbfzrrstwohjvdjgg
+vqrqlhmb97231vbfzrrs2hjvdjgg -> 92
+
+kk1foursixeight849
+kk1468849 -> 19
+
+seven13ttbnlr21
+713ttbnlr21 -> 71
+
+jfgsksrrkjsixsixthreesixfourrbxqzdhc9
+jfgsksrrkj66364rbxqzdhc9 -> 69
+
+3fiveeightqbndjdg6pmftqshone
+358qbndjdg6pmftqsh1 -> 31
+
+nineoneseventkdpztbkk83two4
+917tkdpztbkk8324 -> 94
+
+cjdbxhpzr87eight
+cjdbxhpzr878 -> 88
+
+twosevenkkdhf86sevendzhvkrttjljr
+27kkdhf867dzhvkrttjljr -> 27
+
+67cdltmnbkktzseightsix7two
+67cdltmnbkktzs8672 -> 62
+
+three44zqtglqcffrkmhsgjfive
+344zqtglqcffrkmhsgj5 -> 35
+
+twoonenbf74three9tthsvmngcx
+21nbf7439tthsvmngcx -> 29
+
+lvrnpvmvgvnnonesix5
+lvrnpvmvgvnn165 -> 15
+
+nchcfxxphmnqbhfourxnine52sixj
+nchcfxxphmnqbh4x9526j -> 46
+
+fourqpvngjszftg88seven
+4qpvngjszftg887 -> 47
+
+xgzmv133zvjmlfqhcmjbqzfntkjtpdjlkmv
+xgzmv133zvjmlfqhcmjbqzfntkjtpdjlkmv -> 13
+
+fivejxc4threebzqbhrldsf
+5jxc43bzqbhrldsf -> 53
+
+glvtpvnsevenqvrtcgjkhkcsix1seven
+glvtpvn7qvrtcgjkhkc617 -> 77
+
+sjeightwo4fivesevensixnqxsjckfive
+sj8wo4576nqxsjck5 -> 85
+
+z5
+z5 -> 55
+
+jxxhsmdvkglljhxzxljqz9zplmslcfdxxljtwosixkjxlsrfcx
+jxxhsmdvkglljhxzxljqz9zplmslcfdxxlj26kjxlsrfcx -> 96
+
+fiversdslrkcqclzb7zdzlbllfkvphfqhnfour
+5rsdslrkcqclzb7zdzlbllfkvphfqhn4 -> 54
+
+five1hpdncfpzhdxrhnv4lblgthree7snj
+51hpdncfpzhdxrhnv4lblg37snj -> 57
+
+8scqf
+8scqf -> 88
+
+threepcfkrhstmsbfvqxsxrctwo185six
+3pcfkrhstmsbfvqxsxrc21856 -> 36
+
+7lqvpqxbjrv9nine985
+7lqvpqxbjrv99985 -> 75
+
+eight16jvfqcgbmhdgdltxz9
+816jvfqcgbmhdgdltxz9 -> 89
+
+three8vncqf9
+38vncqf9 -> 39
+
+zrzp9sevenxthpsxtdninebmnhgrkdjqqjfffourblbkch
+zrzp97xthpsxtd9bmnhgrkdjqqjff4blbkch -> 94
+
+fiveseven25snpsnjgnfl
+5725snpsnjgnfl -> 55
+
+ninefourxrtdlb1threefivefive1rbqzfbxtst
+94xrtdlb13551rbqzfbxtst -> 91
+
+three8three7five41
+3837541 -> 31
+
+tcnvsevenz45fngtjljh
+tcnv7z45fngtjljh -> 75
+
+txvpst1
+txvpst1 -> 11
+
+eighthrlbmtk4nssknqmxjvjnqsqlfivekzrphrtwo
+8hrlbmtk4nssknqmxjvjnqsql5kzrphr2 -> 82
+
+two492ninekcjvllckdtkp
+24929kcjvllckdtkp -> 29
+
+48vlvmkcvbsfoursix8
+48vlvmkcvbs468 -> 48
+
+eight28sixsix3nine45
+828663945 -> 85
+
+jkm8hhqfclneightjlpsnck8dcvlvgkrfprflsvlh
+jkm8hhqfcln8jlpsnck8dcvlvgkrfprflsvlh -> 88
+
+4zxjqlfn
+4zxjqlfn -> 44
+
+fivebpqfjtcmlsixfour48onejqhzgtftrvkknngf
+5bpqfjtcml64481jqhzgtftrvkknngf -> 51
+
+dkfour7fivezzsjdbnvgninefivenine5
+dk475zzsjdbnvg9595 -> 45
+
+twoxjqldtk91eightneight
+2xjqldtk918n8 -> 28
+
+seven57177
+757177 -> 77
+
+gpbqvlpxvnzgninefoureightthree5
+gpbqvlpxvnzg94835 -> 95
+
+bzprbrninesnjpgqthreeeightsixtgmvrthfour4
+bzprbr9snjpgq386tgmvrth44 -> 94
+
+83brtxx4zzxsxrcfivebzbxlsl
+83brtxx4zzxsxrc5bzbxlsl -> 85
+
+threesevenninetwo8twoone
+3792821 -> 31
+
+veightwochrmfrkrcppxkj4tvvzmhqjhnjvtq1threegtmfnnjpxb
+v8wochrmfrkrcppxkj4tvvzmhqjhnjvtq13gtmfnnjpxb -> 83
+
+3zgqpvq9krslgjgkjmtbsbhbjg
+3zgqpvq9krslgjgkjmtbsbhbjg -> 39
+
+4nine8mhfs67vhdjvsjrlz2
+498mhfs67vhdjvsjrlz2 -> 42
+
+nine659xrvhhnnbqq7
+9659xrvhhnnbqq7 -> 97
+
+bninetwoeight8fxntpdkrfp9eightnb
+b9288fxntpdkrfp98nb -> 98
+
+qtwonecvbgxqfiveoneeight4five
+qtw1cvbgxq51845 -> 15
+
+seven926
+7926 -> 76
+
+shkkksn4onefivethree
+shkkksn4153 -> 43
+
+eightsevenqvfqmzqsfn1
+87qvfqmzqsfn1 -> 81
+
+sixdgjmtk5fivevqbxxdzrjqdtgnnffzmfqxzjdzhp
+6dgjmtk55vqbxxdzrjqdtgnnffzmfqxzjdzhp -> 65
+
+stsjcmzbxt1
+stsjcmzbxt1 -> 11
+
+rvnone3three9twozchp26
+rvn13392zchp26 -> 16
+
+ninefmpkdlvzfivetwo1
+9fmpkdlvz521 -> 91
+
+four4one4vdpgp9lprtqjzmhk
+4414vdpgp9lprtqjzmhk -> 49
+
+15rpdhczznrzclfcsxdx41
+15rpdhczznrzclfcsxdx41 -> 11
+
+seven36twopnvjdxrss5
+7362pnvjdxrss5 -> 75
+
+46ninenine
+4699 -> 49
+
+6jg8xtqfmjffdlfhzrn
+6jg8xtqfmjffdlfhzrn -> 68
+
+2jsixfive573
+2j65573 -> 23
+
+two8eight39fbqkdzseven9
+28839fbqkdz79 -> 29
+
+3gnrg5
+3gnrg5 -> 35
+
+hlkk1
+hlkk1 -> 11
+
+1sevenfive7
+1757 -> 17
+
+72jvdqmlrddk
+72jvdqmlrddk -> 72
+
+ninetwo8hzdninesixnjhgrcsttwo
+928hzd96njhgrcst2 -> 92
+
+23cxdccvvjrjfsixlcrmxjkeight
+23cxdccvvjrjf6lcrmxjk8 -> 28
+
+6brqjfjsix56nine3
+6brqjfj65693 -> 63
+
+ninezveighttwogc5two
+9zv82gc52 -> 92
+
+ninexskpsth5sevennine
+9xskpsth579 -> 99
+
+c7jmmjcv
+c7jmmjcv -> 77
+
+89sixthreeeight71q
+8963871q -> 81
+
+fivekccfngmxseven7onernfskqnqfive5
+5kccfngmx771rnfskqnq55 -> 55
+
+sevensixone4hfhgs
+7614hfhgs -> 74
+
+xq2jxddpdm3nine8ptqlm4
+xq2jxddpdm398ptqlm4 -> 24
+
+smsevendj19fbqdjpznfourgqq6
+sm7dj19fbqdjpzn4gqq6 -> 76
+
+7147
+7147 -> 77
+
+znqbfmcpd4twoseven
+znqbfmcpd427 -> 47
+
+fhcsmxtdx6
+fhcsmxtdx6 -> 66
+
+sxj2tcb92
+sxj2tcb92 -> 22
+
+6nine6
+696 -> 66
+
+qdfknmdzt88
+qdfknmdzt88 -> 88
+
+66threebsndqlkrshfive5
+663bsndqlkrsh55 -> 65
+
+eight7pckdhlqzrx24
+87pckdhlqzrx24 -> 84
+
+3ninevk
+39vk -> 39
+
+sevennine3
+793 -> 73
+
+8one1rjtnhjx
+811rjtnhjx -> 81
+
+eightthree3ninekzhtlqsevenssprmrqhhgncrs
+8339kzhtlq7ssprmrqhhgncrs -> 87
+
+6one8nlzxfxvr
+618nlzxfxvr -> 68
+
+4cgm9fivethree
+4cgm953 -> 43
+
+four77gxvdqztzzgbsxhntwortndzqzj
+477gxvdqztzzgbsxhn2rtndzqzj -> 42
+
+t8three335
+t83335 -> 85
+
+c2rjggzl
+c2rjggzl -> 22
+
+jjgjbqgbnz4gdsqk66991
+jjgjbqgbnz4gdsqk66991 -> 41
+
+ninezckbpsr9
+9zckbpsr9 -> 99
+
+jb5sevenseven
+jb577 -> 57
+
+one5nfdcvx
+15nfdcvx -> 15
+
+1kbcmclhrh1onejzft
+1kbcmclhrh11jzft -> 11
+
+fiveninefivedglztnjxblonehfive3
+595dglztnjxbl1h53 -> 53
+
+6onesixh6onethree9
+616h6139 -> 69
+
+spdzhnt5tpzrkh1fxlnine4skgzdln
+spdzhnt5tpzrkh1fxl94skgzdln -> 54
+
+1onenineqgzcq2eightwonh
+119qgzcq28wonh -> 18
+
+vfzvds826vtlrcg6rvseven
+vfzvds826vtlrcg6rv7 -> 87
+
+vqmoneight9tknqtcsmb
+vqmon89tknqtcsmb -> 89
+
+kqrcrqrqjbdeight7ckhr23
+kqrcrqrqjbd87ckhr23 -> 83
+
+oneeight2
+182 -> 12
+
+8eightnhtqcggtxc6dfsfcjfpznmsthree
+88nhtqcggtxc6dfsfcjfpznms3 -> 83
+
+sxfvfdkff8dvlmbdktsixmzpnxzmml2
+sxfvfdkff8dvlmbdkt6mzpnxzmml2 -> 82
+
+9lgmxktj1frxl
+9lgmxktj1frxl -> 91
+===========
+Final sum: 54911
