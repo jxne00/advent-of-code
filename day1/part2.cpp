@@ -1,12 +1,14 @@
 #include "../utils/common.hpp"
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <string>
 #include <unordered_map>
 
 // replace all digit words with digits
-void replaceDigitWords(std::string& str, const std::unordered_map<std::string, std::string>& mapping) {
-    for (const auto& [word, digit] : mapping) {
+void replaceDigitWords(
+    std::string &str,
+    const std::unordered_map<std::string, std::string> &mapping) {
+    for (const auto &[word, digit] : mapping) {
         std::string::size_type i = 0;
         while ((i = str.find(word, i)) != std::string::npos) {
             // replace word with digit
@@ -16,17 +18,16 @@ void replaceDigitWords(std::string& str, const std::unordered_map<std::string, s
     }
 }
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[]) {
     std::cout << "----- Day 1: Trebuchet?! (Part 2) -----" << std::endl;
     std::ifstream input(utils::get_input_path(argc, argv));
     std::string line;
 
     // maps digit words to its digit
     std::unordered_map<std::string, std::string> mapping = {
-        {"one", "o1e"}, {"two", "t2o"}, {"three", "t3e"},
-        {"four", "f4r"}, {"five", "f5e"}, {"six", "s6x"},
-        {"seven", "s7n"}, {"eight", "e8t"}, {"nine", "n9e"}
-    };
+        {"one", "o1e"},   {"two", "t2o"},   {"three", "t3e"},
+        {"four", "f4r"},  {"five", "f5e"},  {"six", "s6x"},
+        {"seven", "s7n"}, {"eight", "e8t"}, {"nine", "n9e"}};
 
     int sum = 0;
     while (std::getline(input, line)) {
