@@ -4,24 +4,16 @@
 #include <string>
 #include <unordered_map>
 
-// map digit words to its digit
-std::unordered_map<std::string, std::string> word_digit_map = {
-    {"one", "1"}, {"two", "2"}, {"three", "3"},
-    {"four", "4"}, {"five", "5"}, {"six", "6"},
-    {"seven", "7"}, {"eight", "8"}, {"nine", "9"}
-};
-
 // replace all digit words with digits
-std::string replaceDigitWords(std::string input) {
-    for (auto& [word, digit] : word_digit_map) {
-        std::string::size_type pos = 0;
-        while ((pos = input.find(word, pos)) != std::string::npos) {
+void replaceDigitWords(std::string& str, const std::unordered_map<std::string, std::string>& mapping) {
+    for (const auto& [word, digit] : mapping) {
+        std::string::size_type i = 0;
+        while ((i = str.find(word, i)) != std::string::npos) {
             // replace word with digit
-            input.replace(pos, word.length(), digit);
-            pos += digit.length();
+            str.replace(i, word.length(), digit);
+            i += digit.length();
         }
     }
-    return input;
 }
 
 int main(int argc, char* argv[]) {
@@ -29,27 +21,34 @@ int main(int argc, char* argv[]) {
     std::ifstream input(utils::get_input_path(argc, argv));
     std::string line;
 
-    int calibration_sum = 0;
+    // maps digit words to its digit
+    std::unordered_map<std::string, std::string> mapping = {
+        {"one", "o1e"}, {"two", "t2o"}, {"three", "t3e"},
+        {"four", "f4r"}, {"five", "f5e"}, {"six", "s6x"},
+        {"seven", "s7n"}, {"eight", "e8t"}, {"nine", "n9e"}
+    };
+
+    int sum = 0;
     while (std::getline(input, line)) {
         std::cout << '\n' << line << std::endl;
         // convert all words to digits
-        std::string digits_line = replaceDigitWords(line);
+        replaceDigitWords(line, mapping);
 
         // find first and last digit
-        auto first_it = std::find_if(digits_line.begin(), digits_line.end(), ::isdigit);
-        auto last_it = std::find_if(digits_line.rbegin(), digits_line.rend(), ::isdigit);
+        auto first_it = std::find_if(line.begin(), line.end(), ::isdigit);
+        auto last_it = std::find_if(line.rbegin(), line.rend(), ::isdigit);
 
-        // convert digits to int then add to sum
-        if (first_it != digits_line.end() && last_it != digits_line.rend()) {
+        // convert digits to 2 digit number then add to sum
+        if (first_it != line.end() && last_it != line.rend()) {
             int first_digit = *first_it - '0';
             int last_digit = *last_it - '0';
 
             int calibration_val = (first_digit * 10) + last_digit;
-            calibration_sum += calibration_val;
+            sum += calibration_val;
 
-            std::cout << digits_line << " -> " << calibration_val << std::endl;
+            std::cout << line << " -> " << calibration_val << std::endl;
         }
     }
-    std::cout << "===========\nFinal sum: " << calibration_sum << std::endl;
+    std::cout << "===========\nSum of calibration values: " << sum << std::endl;
     return 0;
 }
