@@ -1,4 +1,4 @@
-// TOFIX
+// UNSOLVED
 #include "../utils/common.hpp"
 #include <fstream>
 #include <iostream>
@@ -7,8 +7,8 @@
 
 // to store position of part numbers
 struct PartNumber {
-    int x;
-    int y;
+    size_t x;
+    size_t y;
 };
 
 // checks if position is adjacent to a symbol
@@ -17,8 +17,8 @@ bool isPartNumber(const std::vector<std::string> &schematic, int x, int y) {
     const int dy[] = {-1, 0, 1, -1, 1, -1, 0, 1};
 
     for (int i = 0; i < 8; ++i) {
-        int adj_x = x + dx[i];
-        int adj_y = y + dy[i];
+        size_t adj_x = x + dx[i];
+        size_t adj_y = y + dy[i];
 
         if (adj_y >= 0 && adj_y < schematic.size() && adj_x >= 0 &&
             adj_x < schematic[adj_y].size()) {
@@ -46,11 +46,11 @@ int getGearRatio(const std::vector<std::string> &schematic, int x, int y,
     int val1 = 0, ratio = 0;
 
     for (int i = 0; i < 8; ++i) {
-        int adj_x = x + dx[i];
-        int adj_y = y + dy[i];
+        size_t adj_x = x + dx[i];
+        size_t adj_y = y + dy[i];
 
         // check how many part numbers there are
-        for (int j = 0; j < part_numbers.size(); ++j) {
+        for (size_t j = 0; j < part_numbers.size(); ++j) {
             if (adj_x == part_numbers[j].x && adj_y == part_numbers[j].y) {
                 // get values of part numbers
                 if (count == 0) {
@@ -86,8 +86,8 @@ int main(int argc, char *argv[]) {
     }
 
     // get position of all part numbers in schematic
-    for (int y = 0; y < schematic.size(); y++) {
-        for (int x = 0; x < schematic[y].size(); x++) {
+    for (size_t y = 0; y < schematic.size(); y++) {
+        for (size_t x = 0; x < schematic[y].size(); x++) {
             bool is_part = false;
             // get the position of all part numbers
             if (std::isdigit(schematic[y][x])) {
@@ -110,8 +110,8 @@ int main(int argc, char *argv[]) {
 
     // find all gears and get their gear ratio
     int sum_ratio = 0;
-    for (int y = 0; y < schematic.size(); y++) {
-        for (int x = 0; x < schematic[y].size(); x++) {
+    for (size_t y = 0; y < schematic.size(); y++) {
+        for (size_t x = 0; x < schematic[y].size(); x++) {
             int ratio = getGearRatio(schematic, x, y, part_numbers);
             if (ratio != -1) {
                 sum_ratio += ratio;
