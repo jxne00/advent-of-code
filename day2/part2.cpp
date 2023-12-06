@@ -1,3 +1,4 @@
+#include "../utils/common.hpp"
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -37,15 +38,15 @@ std::vector<ColorCount> getCounts(const std::string& line) {
     return counts;
 }
 
-int main() {
-    std::ifstream file("input.txt");
+int main(int argc, char* argv[]) {
+    std::cout << "----- Day 2: Cube Conundrum (Part 1) -----\n" << std::endl;
+
+    std::ifstream input(utils::get_input_path(argc, argv));
     std::string line;
-    int game_id = 1;
     int power_sum = 0;
 
-    while (getline(file, line)) {
+    while (getline(input, line)) {
         std::cout << line << "\n";
-        bool valid = true;
 
         // get the counts for each set
         std::vector<ColorCount> counts = getCounts(line);
@@ -62,10 +63,7 @@ int main() {
         int power = min_cubes.red * min_cubes.green * min_cubes.blue;
         power_sum += power;
 
-        std::cout << "-> Power: " << power << '\n';
-
-        game_id++;
-        std::cout << '\n';
+        std::cout << "-> Power: " << power << '\n' << std::endl;
     }
 
     std::cout << "===============\nSum of powers: " << power_sum << '\n';

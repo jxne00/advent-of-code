@@ -1,0 +1,526 @@
+----- Day 2: Cube Conundrum (Part 1) -----
+
+Game 1: 1 green, 2 blue; 13 red, 2 blue, 3 green; 4 green, 14 red
+Red: 0, Green: 1, Blue: 2 (OK)
+Red: 13, Green: 3, Blue: 2
+
+Game 2: 2 blue, 11 green; 4 blue, 12 red, 4 green; 7 red, 1 blue, 9 green; 10 green, 12 red, 6 blue
+Red: 0, Green: 11, Blue: 2 (OK)
+Red: 12, Green: 4, Blue: 4 (OK)
+Red: 7, Green: 9, Blue: 1 (OK)
+Red: 12, Green: 10, Blue: 6 (OK)
+
+Game 3: 1 blue, 12 green, 2 red; 9 red, 16 green; 1 red, 10 green, 1 blue; 1 red, 14 green
+Red: 2, Green: 12, Blue: 1 (OK)
+Red: 9, Green: 16, Blue: 0
+
+Game 4: 8 green, 18 blue; 4 green, 14 blue, 2 red; 3 blue, 5 green, 11 red
+Red: 0, Green: 8, Blue: 18
+
+Game 5: 7 red, 15 blue, 1 green; 13 blue; 18 red, 2 green, 9 blue; 19 blue, 5 green, 10 red; 9 green, 2 blue, 7 red
+Red: 7, Green: 1, Blue: 15
+
+Game 6: 1 red, 8 blue, 2 green; 1 blue, 3 red, 5 green; 2 green, 3 red, 2 blue; 1 blue, 4 green
+Red: 1, Green: 2, Blue: 8 (OK)
+Red: 3, Green: 5, Blue: 1 (OK)
+Red: 3, Green: 2, Blue: 2 (OK)
+Red: 0, Green: 4, Blue: 1 (OK)
+
+Game 7: 4 red, 6 green, 1 blue; 3 blue, 9 green, 5 red; 5 blue, 5 green, 4 red; 6 green, 5 blue, 5 red; 13 red; 4 red, 2 blue, 9 green
+Red: 4, Green: 6, Blue: 1 (OK)
+Red: 5, Green: 9, Blue: 3 (OK)
+Red: 4, Green: 5, Blue: 5 (OK)
+Red: 5, Green: 6, Blue: 5 (OK)
+Red: 13, Green: 0, Blue: 0
+
+Game 8: 7 blue, 14 green, 5 red; 1 green, 7 blue, 11 red; 6 blue, 16 red, 4 green; 8 red, 11 green, 7 blue; 6 blue, 18 red, 9 green
+Red: 5, Green: 14, Blue: 7
+
+Game 9: 3 blue, 1 green, 6 red; 1 red, 1 blue, 1 green; 6 red, 2 blue, 1 green
+Red: 6, Green: 1, Blue: 3 (OK)
+Red: 1, Green: 1, Blue: 1 (OK)
+Red: 6, Green: 1, Blue: 2 (OK)
+
+Game 10: 6 red, 11 blue, 12 green; 1 blue, 2 red, 3 green; 14 green, 6 red, 7 blue; 6 red, 10 blue, 9 green; 6 blue, 2 red
+Red: 6, Green: 12, Blue: 11 (OK)
+Red: 2, Green: 3, Blue: 1 (OK)
+Red: 6, Green: 14, Blue: 7
+
+Game 11: 5 blue, 2 red, 18 green; 2 blue, 13 green; 8 blue, 15 green, 2 red
+Red: 2, Green: 18, Blue: 5
+
+Game 12: 5 red, 4 blue; 1 blue, 8 green, 8 red; 15 green, 5 red, 4 blue
+Red: 5, Green: 0, Blue: 4 (OK)
+Red: 8, Green: 8, Blue: 1 (OK)
+Red: 5, Green: 15, Blue: 4
+
+Game 13: 12 blue, 1 red, 6 green; 9 red, 6 blue, 12 green; 3 red, 11 green, 6 blue; 8 red, 4 green, 10 blue; 3 green, 7 blue
+Red: 1, Green: 6, Blue: 12 (OK)
+Red: 9, Green: 12, Blue: 6 (OK)
+Red: 3, Green: 11, Blue: 6 (OK)
+Red: 8, Green: 4, Blue: 10 (OK)
+Red: 0, Green: 3, Blue: 7 (OK)
+
+Game 14: 9 red, 5 green, 1 blue; 1 red, 3 blue; 10 green, 7 red; 5 blue, 8 green, 10 red
+Red: 9, Green: 5, Blue: 1 (OK)
+Red: 1, Green: 0, Blue: 3 (OK)
+Red: 7, Green: 10, Blue: 0 (OK)
+Red: 10, Green: 8, Blue: 5 (OK)
+
+Game 15: 3 blue, 9 red, 14 green; 15 green, 2 blue, 6 red; 7 green, 1 red, 5 blue
+Red: 9, Green: 14, Blue: 3
+
+Game 16: 7 green, 4 blue, 6 red; 6 green, 4 blue, 8 red; 5 red, 2 blue, 10 green; 4 blue, 4 red, 15 green; 9 red, 15 green, 6 blue; 7 green, 5 blue, 2 red
+Red: 6, Green: 7, Blue: 4 (OK)
+Red: 8, Green: 6, Blue: 4 (OK)
+Red: 5, Green: 10, Blue: 2 (OK)
+Red: 4, Green: 15, Blue: 4
+
+Game 17: 8 red, 6 green, 2 blue; 4 green, 1 blue, 17 red; 1 green, 11 red, 1 blue
+Red: 8, Green: 6, Blue: 2 (OK)
+Red: 17, Green: 4, Blue: 1
+
+Game 18: 13 blue, 1 green, 3 red; 2 red, 2 green; 11 red, 1 green, 7 blue; 2 green, 7 blue, 2 red
+Red: 3, Green: 1, Blue: 13 (OK)
+Red: 2, Green: 2, Blue: 0 (OK)
+Red: 11, Green: 1, Blue: 7 (OK)
+Red: 2, Green: 2, Blue: 7 (OK)
+
+Game 19: 2 green, 13 red, 2 blue; 1 green, 6 blue, 4 red; 1 green, 2 blue, 15 red
+Red: 13, Green: 2, Blue: 2
+
+Game 20: 10 red, 11 blue, 8 green; 6 red, 13 blue, 2 green; 6 blue, 8 green, 3 red; 10 red, 2 blue, 8 green; 2 red, 3 blue, 7 green; 3 red
+Red: 10, Green: 8, Blue: 11 (OK)
+Red: 6, Green: 2, Blue: 13 (OK)
+Red: 3, Green: 8, Blue: 6 (OK)
+Red: 10, Green: 8, Blue: 2 (OK)
+Red: 2, Green: 7, Blue: 3 (OK)
+Red: 3, Green: 0, Blue: 0 (OK)
+
+Game 21: 2 blue, 10 red; 5 green, 3 red; 5 green, 4 red, 4 blue; 6 blue, 9 red, 10 green
+Red: 10, Green: 0, Blue: 2 (OK)
+Red: 3, Green: 5, Blue: 0 (OK)
+Red: 4, Green: 5, Blue: 4 (OK)
+Red: 9, Green: 10, Blue: 6 (OK)
+
+Game 22: 5 red, 1 green; 5 red; 4 red, 1 blue; 1 blue, 10 red
+Red: 5, Green: 1, Blue: 0 (OK)
+Red: 5, Green: 0, Blue: 0 (OK)
+Red: 4, Green: 0, Blue: 1 (OK)
+Red: 10, Green: 0, Blue: 1 (OK)
+
+Game 23: 2 red, 11 blue, 4 green; 4 blue; 1 blue, 6 green, 4 red; 3 green, 4 blue, 2 red
+Red: 2, Green: 4, Blue: 11 (OK)
+Red: 0, Green: 0, Blue: 4 (OK)
+Red: 4, Green: 6, Blue: 1 (OK)
+Red: 2, Green: 3, Blue: 4 (OK)
+
+Game 24: 4 green; 12 green, 4 blue, 1 red; 11 green, 1 blue, 2 red
+Red: 0, Green: 4, Blue: 0 (OK)
+Red: 1, Green: 12, Blue: 4 (OK)
+Red: 2, Green: 11, Blue: 1 (OK)
+
+Game 25: 10 red, 1 blue, 3 green; 3 green, 6 blue, 6 red; 2 green, 9 red, 2 blue; 1 blue, 3 green, 7 red; 6 blue, 4 green; 1 red
+Red: 10, Green: 3, Blue: 1 (OK)
+Red: 6, Green: 3, Blue: 6 (OK)
+Red: 9, Green: 2, Blue: 2 (OK)
+Red: 7, Green: 3, Blue: 1 (OK)
+Red: 0, Green: 4, Blue: 6 (OK)
+Red: 1, Green: 0, Blue: 0 (OK)
+
+Game 26: 4 red, 11 green, 5 blue; 2 blue, 11 red, 9 green; 11 green, 3 red; 14 green, 13 red, 5 blue; 10 red, 5 blue, 9 green; 12 red, 4 blue, 6 green
+Red: 4, Green: 11, Blue: 5 (OK)
+Red: 11, Green: 9, Blue: 2 (OK)
+Red: 3, Green: 11, Blue: 0 (OK)
+Red: 13, Green: 14, Blue: 5
+
+Game 27: 8 red, 9 blue, 7 green; 14 red, 15 blue, 2 green; 7 green, 13 blue, 9 red; 8 green, 4 blue, 1 red
+Red: 8, Green: 7, Blue: 9 (OK)
+Red: 14, Green: 2, Blue: 15
+
+Game 28: 4 blue, 4 green, 3 red; 4 green, 9 red, 4 blue; 13 red, 10 blue, 4 green
+Red: 3, Green: 4, Blue: 4 (OK)
+Red: 9, Green: 4, Blue: 4 (OK)
+Red: 13, Green: 4, Blue: 10
+
+Game 29: 7 red; 1 blue, 1 green; 3 red, 1 green, 1 blue; 2 blue; 17 red, 2 blue, 1 green; 6 red, 1 green, 2 blue
+Red: 7, Green: 0, Blue: 0 (OK)
+Red: 0, Green: 1, Blue: 1 (OK)
+Red: 3, Green: 1, Blue: 1 (OK)
+Red: 0, Green: 0, Blue: 2 (OK)
+Red: 17, Green: 1, Blue: 2
+
+Game 30: 10 green, 4 red, 4 blue; 5 red, 6 blue, 9 green; 2 red, 3 green, 4 blue; 1 blue, 9 green, 1 red; 1 red
+Red: 4, Green: 10, Blue: 4 (OK)
+Red: 5, Green: 9, Blue: 6 (OK)
+Red: 2, Green: 3, Blue: 4 (OK)
+Red: 1, Green: 9, Blue: 1 (OK)
+Red: 1, Green: 0, Blue: 0 (OK)
+
+Game 31: 6 red, 3 green; 1 blue, 3 green, 9 red; 2 blue, 11 red; 13 red, 2 blue, 3 green; 5 green, 3 blue
+Red: 6, Green: 3, Blue: 0 (OK)
+Red: 9, Green: 3, Blue: 1 (OK)
+Red: 11, Green: 0, Blue: 2 (OK)
+Red: 13, Green: 3, Blue: 2
+
+Game 32: 2 red, 1 blue, 1 green; 3 green, 1 blue; 1 red, 6 green; 3 red, 3 green; 1 blue; 12 green, 3 red, 1 blue
+Red: 2, Green: 1, Blue: 1 (OK)
+Red: 0, Green: 3, Blue: 1 (OK)
+Red: 1, Green: 6, Blue: 0 (OK)
+Red: 3, Green: 3, Blue: 0 (OK)
+Red: 0, Green: 0, Blue: 1 (OK)
+Red: 3, Green: 12, Blue: 1 (OK)
+
+Game 33: 17 blue, 14 green, 7 red; 5 red, 9 green, 16 blue; 8 green, 3 blue, 3 red; 10 green, 12 blue, 1 red
+Red: 7, Green: 14, Blue: 17
+
+Game 34: 2 red, 1 green, 9 blue; 14 blue, 2 green, 9 red; 10 blue, 2 green, 16 red; 2 green, 5 red, 14 blue; 5 blue, 12 red, 2 green; 8 blue, 15 red, 3 green
+Red: 2, Green: 1, Blue: 9 (OK)
+Red: 9, Green: 2, Blue: 14 (OK)
+Red: 16, Green: 2, Blue: 10
+
+Game 35: 14 green, 4 red; 16 green, 4 red; 4 red, 3 blue, 3 green; 5 green, 4 red, 4 blue; 3 red, 1 blue, 8 green
+Red: 4, Green: 14, Blue: 0
+
+Game 36: 1 blue, 8 red, 4 green; 2 green, 15 blue, 4 red; 13 blue, 5 red, 8 green
+Red: 8, Green: 4, Blue: 1 (OK)
+Red: 4, Green: 2, Blue: 15
+
+Game 37: 2 red, 8 green, 7 blue; 9 green, 20 red, 3 blue; 3 blue, 1 green, 2 red; 9 red, 1 blue, 4 green; 6 green, 2 blue, 20 red
+Red: 2, Green: 8, Blue: 7 (OK)
+Red: 20, Green: 9, Blue: 3
+
+Game 38: 8 red, 2 blue, 2 green; 7 green, 4 red; 4 red, 10 green, 2 blue
+Red: 8, Green: 2, Blue: 2 (OK)
+Red: 4, Green: 7, Blue: 0 (OK)
+Red: 4, Green: 10, Blue: 2 (OK)
+
+Game 39: 9 green, 11 red, 6 blue; 6 blue, 2 green, 19 red; 2 red, 3 blue, 2 green; 4 green, 2 blue, 13 red; 19 red, 7 green, 1 blue
+Red: 11, Green: 9, Blue: 6 (OK)
+Red: 19, Green: 2, Blue: 6
+
+Game 40: 7 blue, 2 green, 11 red; 19 red, 4 green, 2 blue; 1 green, 10 red, 5 blue; 2 red, 1 green, 2 blue
+Red: 11, Green: 2, Blue: 7 (OK)
+Red: 19, Green: 4, Blue: 2
+
+Game 41: 1 red, 1 blue, 13 green; 13 green, 11 red, 5 blue; 19 green, 3 blue; 18 green, 1 red
+Red: 1, Green: 13, Blue: 1 (OK)
+Red: 11, Green: 13, Blue: 5 (OK)
+Red: 0, Green: 19, Blue: 3
+
+Game 42: 1 blue, 2 green, 7 red; 13 green, 5 red, 7 blue; 6 red, 13 green, 9 blue; 12 red, 17 blue, 13 green; 9 red, 16 blue, 5 green; 11 red, 4 green
+Red: 7, Green: 2, Blue: 1 (OK)
+Red: 5, Green: 13, Blue: 7 (OK)
+Red: 6, Green: 13, Blue: 9 (OK)
+Red: 12, Green: 13, Blue: 17
+
+Game 43: 3 blue, 4 red; 6 red, 5 blue; 7 blue, 1 green, 5 red; 3 blue, 10 red
+Red: 4, Green: 0, Blue: 3 (OK)
+Red: 6, Green: 0, Blue: 5 (OK)
+Red: 5, Green: 1, Blue: 7 (OK)
+Red: 10, Green: 0, Blue: 3 (OK)
+
+Game 44: 10 green, 10 blue; 2 blue, 10 red, 10 green; 2 green, 5 red, 4 blue; 8 red, 2 green, 2 blue; 14 red, 3 blue, 10 green; 14 red, 5 green, 3 blue
+Red: 0, Green: 10, Blue: 10 (OK)
+Red: 10, Green: 10, Blue: 2 (OK)
+Red: 5, Green: 2, Blue: 4 (OK)
+Red: 8, Green: 2, Blue: 2 (OK)
+Red: 14, Green: 10, Blue: 3
+
+Game 45: 9 green, 2 red, 2 blue; 2 blue, 2 red, 7 green; 9 blue, 6 green
+Red: 2, Green: 9, Blue: 2 (OK)
+Red: 2, Green: 7, Blue: 2 (OK)
+Red: 0, Green: 6, Blue: 9 (OK)
+
+Game 46: 2 blue, 1 green; 1 blue, 1 red, 1 green; 1 blue; 1 blue, 1 green
+Red: 0, Green: 1, Blue: 2 (OK)
+Red: 1, Green: 1, Blue: 1 (OK)
+Red: 0, Green: 0, Blue: 1 (OK)
+Red: 0, Green: 1, Blue: 1 (OK)
+
+Game 47: 4 green, 10 red, 14 blue; 19 red, 3 blue, 1 green; 4 green, 14 blue, 15 red; 9 blue, 17 red; 3 green, 12 blue, 7 red; 1 red, 11 blue, 4 green
+Red: 10, Green: 4, Blue: 14 (OK)
+Red: 19, Green: 1, Blue: 3
+
+Game 48: 9 red, 2 green, 1 blue; 7 red, 3 blue; 8 red, 1 green; 1 blue, 3 red
+Red: 9, Green: 2, Blue: 1 (OK)
+Red: 7, Green: 0, Blue: 3 (OK)
+Red: 8, Green: 1, Blue: 0 (OK)
+Red: 3, Green: 0, Blue: 1 (OK)
+
+Game 49: 2 red, 3 green, 13 blue; 7 red, 15 blue, 3 green; 15 blue, 7 red; 11 blue, 5 red, 3 green
+Red: 2, Green: 3, Blue: 13 (OK)
+Red: 7, Green: 3, Blue: 15
+
+Game 50: 4 red, 4 green, 2 blue; 2 green, 3 red; 2 green, 3 red, 11 blue; 3 green, 2 red
+Red: 4, Green: 4, Blue: 2 (OK)
+Red: 3, Green: 2, Blue: 0 (OK)
+Red: 3, Green: 2, Blue: 11 (OK)
+Red: 2, Green: 3, Blue: 0 (OK)
+
+Game 51: 4 blue, 17 green; 3 blue, 17 green, 1 red; 6 green, 8 blue
+Red: 0, Green: 17, Blue: 4
+
+Game 52: 14 blue, 3 red; 11 green, 6 red, 9 blue; 6 blue, 10 red; 1 red, 1 green, 4 blue; 9 blue, 6 green; 3 red, 2 blue, 8 green
+Red: 3, Green: 0, Blue: 14 (OK)
+Red: 6, Green: 11, Blue: 9 (OK)
+Red: 10, Green: 0, Blue: 6 (OK)
+Red: 1, Green: 1, Blue: 4 (OK)
+Red: 0, Green: 6, Blue: 9 (OK)
+Red: 3, Green: 8, Blue: 2 (OK)
+
+Game 53: 1 blue, 9 red, 9 green; 11 green, 1 red, 7 blue; 11 green, 9 red, 7 blue; 12 green, 15 red, 7 blue; 7 blue, 12 red, 1 green; 6 blue, 2 green, 4 red
+Red: 9, Green: 9, Blue: 1 (OK)
+Red: 1, Green: 11, Blue: 7 (OK)
+Red: 9, Green: 11, Blue: 7 (OK)
+Red: 15, Green: 12, Blue: 7
+
+Game 54: 7 blue, 2 red, 4 green; 2 red, 16 blue, 8 green; 15 blue, 7 green; 5 blue, 3 red, 2 green; 9 green, 15 blue; 1 green, 14 blue
+Red: 2, Green: 4, Blue: 7 (OK)
+Red: 2, Green: 8, Blue: 16
+
+Game 55: 5 red, 10 blue, 2 green; 5 blue, 5 red, 2 green; 6 red, 1 green; 7 red, 8 blue, 1 green; 1 green, 13 blue
+Red: 5, Green: 2, Blue: 10 (OK)
+Red: 5, Green: 2, Blue: 5 (OK)
+Red: 6, Green: 1, Blue: 0 (OK)
+Red: 7, Green: 1, Blue: 8 (OK)
+Red: 0, Green: 1, Blue: 13 (OK)
+
+Game 56: 14 blue, 11 green, 3 red; 10 blue, 7 green, 2 red; 2 red, 13 green, 1 blue
+Red: 3, Green: 11, Blue: 14 (OK)
+Red: 2, Green: 7, Blue: 10 (OK)
+Red: 2, Green: 13, Blue: 1 (OK)
+
+Game 57: 10 blue, 6 red; 10 red, 4 blue, 6 green; 2 green, 16 blue; 6 blue, 11 red, 7 green
+Red: 6, Green: 0, Blue: 10 (OK)
+Red: 10, Green: 6, Blue: 4 (OK)
+Red: 0, Green: 2, Blue: 16
+
+Game 58: 3 red, 2 blue; 9 green, 12 blue; 1 red, 1 green, 5 blue; 1 blue, 2 green
+Red: 3, Green: 0, Blue: 2 (OK)
+Red: 0, Green: 9, Blue: 12 (OK)
+Red: 1, Green: 1, Blue: 5 (OK)
+Red: 0, Green: 2, Blue: 1 (OK)
+
+Game 59: 6 red, 9 green, 2 blue; 6 green, 6 red, 7 blue; 2 green, 7 blue, 9 red; 1 green, 10 blue; 1 green, 3 blue, 1 red; 10 green, 1 red, 3 blue
+Red: 6, Green: 9, Blue: 2 (OK)
+Red: 6, Green: 6, Blue: 7 (OK)
+Red: 9, Green: 2, Blue: 7 (OK)
+Red: 0, Green: 1, Blue: 10 (OK)
+Red: 1, Green: 1, Blue: 3 (OK)
+Red: 1, Green: 10, Blue: 3 (OK)
+
+Game 60: 13 green, 5 red, 9 blue; 3 blue, 12 green, 9 red; 4 blue, 17 green, 9 red; 12 green, 2 red; 6 red, 3 green, 8 blue; 13 green, 12 red
+Red: 5, Green: 13, Blue: 9 (OK)
+Red: 9, Green: 12, Blue: 3 (OK)
+Red: 9, Green: 17, Blue: 4
+
+Game 61: 4 green, 15 red; 5 green, 15 red; 1 blue, 7 green, 12 red; 8 green, 3 blue, 4 red; 11 green, 11 red, 3 blue; 7 red, 12 green, 2 blue
+Red: 15, Green: 4, Blue: 0
+
+Game 62: 3 red; 2 green, 8 red; 10 red, 8 blue; 1 blue, 4 red, 2 green; 2 green, 13 red; 6 red, 9 blue
+Red: 3, Green: 0, Blue: 0 (OK)
+Red: 8, Green: 2, Blue: 0 (OK)
+Red: 10, Green: 0, Blue: 8 (OK)
+Red: 4, Green: 2, Blue: 1 (OK)
+Red: 13, Green: 2, Blue: 0
+
+Game 63: 4 green, 12 blue, 5 red; 5 blue, 5 green, 5 red; 3 blue, 17 green; 1 red, 1 blue, 17 green; 10 green, 4 red, 15 blue; 15 blue, 4 green
+Red: 5, Green: 4, Blue: 12 (OK)
+Red: 5, Green: 5, Blue: 5 (OK)
+Red: 0, Green: 17, Blue: 3
+
+Game 64: 12 red, 9 blue, 4 green; 1 green, 1 red, 8 blue; 10 green, 11 red, 1 blue; 2 red, 10 blue
+Red: 12, Green: 4, Blue: 9 (OK)
+Red: 1, Green: 1, Blue: 8 (OK)
+Red: 11, Green: 10, Blue: 1 (OK)
+Red: 2, Green: 0, Blue: 10 (OK)
+
+Game 65: 1 red, 3 green, 11 blue; 2 red, 6 green, 3 blue; 1 red, 7 green, 1 blue
+Red: 1, Green: 3, Blue: 11 (OK)
+Red: 2, Green: 6, Blue: 3 (OK)
+Red: 1, Green: 7, Blue: 1 (OK)
+
+Game 66: 2 green, 2 red, 4 blue; 19 red, 11 blue, 4 green; 6 blue, 2 green, 13 red; 16 blue, 4 green
+Red: 2, Green: 2, Blue: 4 (OK)
+Red: 19, Green: 4, Blue: 11
+
+Game 67: 1 blue, 5 red, 1 green; 1 green, 1 red, 1 blue; 2 green, 1 blue, 19 red
+Red: 5, Green: 1, Blue: 1 (OK)
+Red: 1, Green: 1, Blue: 1 (OK)
+Red: 19, Green: 2, Blue: 1
+
+Game 68: 3 green, 1 red; 1 red, 3 blue; 3 blue, 2 red, 10 green; 4 green
+Red: 1, Green: 3, Blue: 0 (OK)
+Red: 1, Green: 0, Blue: 3 (OK)
+Red: 2, Green: 10, Blue: 3 (OK)
+Red: 0, Green: 4, Blue: 0 (OK)
+
+Game 69: 5 green, 11 blue, 5 red; 13 green, 19 red, 8 blue; 19 red, 2 green, 11 blue
+Red: 5, Green: 5, Blue: 11 (OK)
+Red: 19, Green: 13, Blue: 8
+
+Game 70: 7 blue, 9 green; 1 red, 11 blue, 2 green; 6 blue, 10 green, 1 red
+Red: 0, Green: 9, Blue: 7 (OK)
+Red: 1, Green: 2, Blue: 11 (OK)
+Red: 1, Green: 10, Blue: 6 (OK)
+
+Game 71: 2 red, 2 green, 9 blue; 1 green, 20 blue, 1 red; 17 blue, 3 green, 2 red; 3 green, 13 blue, 2 red; 16 blue, 3 green; 11 blue
+Red: 2, Green: 2, Blue: 9 (OK)
+Red: 1, Green: 1, Blue: 20
+
+Game 72: 6 red, 4 green, 10 blue; 6 red, 7 blue; 1 blue, 8 green; 3 green, 6 red, 1 blue
+Red: 6, Green: 4, Blue: 10 (OK)
+Red: 6, Green: 0, Blue: 7 (OK)
+Red: 0, Green: 8, Blue: 1 (OK)
+Red: 6, Green: 3, Blue: 1 (OK)
+
+Game 73: 2 green, 12 blue, 2 red; 6 red, 6 blue, 3 green; 8 red, 3 green, 1 blue; 3 green, 5 red, 10 blue
+Red: 2, Green: 2, Blue: 12 (OK)
+Red: 6, Green: 3, Blue: 6 (OK)
+Red: 8, Green: 3, Blue: 1 (OK)
+Red: 5, Green: 3, Blue: 10 (OK)
+
+Game 74: 1 red, 15 green; 3 blue, 5 green, 6 red; 7 red, 5 green; 12 red, 12 green
+Red: 1, Green: 15, Blue: 0
+
+Game 75: 14 blue, 2 green, 8 red; 13 blue, 6 green, 4 red; 4 green, 6 red, 1 blue
+Red: 8, Green: 2, Blue: 14 (OK)
+Red: 4, Green: 6, Blue: 13 (OK)
+Red: 6, Green: 4, Blue: 1 (OK)
+
+Game 76: 12 red, 5 blue, 1 green; 6 blue, 11 red; 2 red, 7 blue; 6 blue, 16 red
+Red: 12, Green: 1, Blue: 5 (OK)
+Red: 11, Green: 0, Blue: 6 (OK)
+Red: 2, Green: 0, Blue: 7 (OK)
+Red: 16, Green: 0, Blue: 6
+
+Game 77: 7 red, 2 green, 1 blue; 6 blue; 3 red, 1 green, 10 blue; 5 blue, 2 green, 1 red
+Red: 7, Green: 2, Blue: 1 (OK)
+Red: 0, Green: 0, Blue: 6 (OK)
+Red: 3, Green: 1, Blue: 10 (OK)
+Red: 1, Green: 2, Blue: 5 (OK)
+
+Game 78: 9 blue, 3 green, 14 red; 16 red, 15 blue; 16 red, 9 green, 10 blue; 2 red, 8 blue, 3 green
+Red: 14, Green: 3, Blue: 9
+
+Game 79: 7 green, 5 blue, 2 red; 5 red, 5 blue, 1 green; 2 red, 3 blue, 10 green; 5 green, 1 blue, 3 red; 5 blue, 3 red, 7 green
+Red: 2, Green: 7, Blue: 5 (OK)
+Red: 5, Green: 1, Blue: 5 (OK)
+Red: 2, Green: 10, Blue: 3 (OK)
+Red: 3, Green: 5, Blue: 1 (OK)
+Red: 3, Green: 7, Blue: 5 (OK)
+
+Game 80: 7 red, 6 blue; 6 red, 6 blue; 7 blue, 2 green; 3 red, 9 blue
+Red: 7, Green: 0, Blue: 6 (OK)
+Red: 6, Green: 0, Blue: 6 (OK)
+Red: 0, Green: 2, Blue: 7 (OK)
+Red: 3, Green: 0, Blue: 9 (OK)
+
+Game 81: 8 green, 9 red, 1 blue; 9 red, 7 green; 1 green, 5 red; 2 green, 1 red; 1 blue, 14 red, 6 green; 1 blue, 11 green, 6 red
+Red: 9, Green: 8, Blue: 1 (OK)
+Red: 9, Green: 7, Blue: 0 (OK)
+Red: 5, Green: 1, Blue: 0 (OK)
+Red: 1, Green: 2, Blue: 0 (OK)
+Red: 14, Green: 6, Blue: 1
+
+Game 82: 4 blue, 14 red, 1 green; 2 red, 4 green, 2 blue; 7 green, 4 blue, 13 red; 2 red, 1 green, 6 blue
+Red: 14, Green: 1, Blue: 4
+
+Game 83: 9 red, 2 blue, 2 green; 6 green, 6 red; 9 red, 3 blue, 6 green
+Red: 9, Green: 2, Blue: 2 (OK)
+Red: 6, Green: 6, Blue: 0 (OK)
+Red: 9, Green: 6, Blue: 3 (OK)
+
+Game 84: 9 green, 1 red, 1 blue; 4 red, 15 green; 7 green, 1 blue, 12 red; 1 blue, 11 red, 14 green; 2 green, 11 red
+Red: 1, Green: 9, Blue: 1 (OK)
+Red: 4, Green: 15, Blue: 0
+
+Game 85: 13 green; 11 green; 15 blue, 10 green; 8 blue, 6 green; 11 green, 1 red, 3 blue; 13 green
+Red: 0, Green: 13, Blue: 0 (OK)
+Red: 0, Green: 11, Blue: 0 (OK)
+Red: 0, Green: 10, Blue: 15
+
+Game 86: 13 green, 1 blue, 4 red; 1 green, 5 red; 1 blue, 9 green, 5 red
+Red: 4, Green: 13, Blue: 1 (OK)
+Red: 5, Green: 1, Blue: 0 (OK)
+Red: 5, Green: 9, Blue: 1 (OK)
+
+Game 87: 4 green, 5 red, 2 blue; 4 green; 8 green, 2 blue, 1 red; 4 blue, 8 green, 1 red; 5 red, 9 blue, 8 green; 7 blue
+Red: 5, Green: 4, Blue: 2 (OK)
+Red: 0, Green: 4, Blue: 0 (OK)
+Red: 1, Green: 8, Blue: 2 (OK)
+Red: 1, Green: 8, Blue: 4 (OK)
+Red: 5, Green: 8, Blue: 9 (OK)
+Red: 0, Green: 0, Blue: 7 (OK)
+
+Game 88: 5 green, 1 blue, 3 red; 2 blue, 2 red, 3 green; 3 green; 2 blue, 1 red, 6 green
+Red: 3, Green: 5, Blue: 1 (OK)
+Red: 2, Green: 3, Blue: 2 (OK)
+Red: 0, Green: 3, Blue: 0 (OK)
+Red: 1, Green: 6, Blue: 2 (OK)
+
+Game 89: 13 blue, 6 red, 15 green; 5 green, 14 blue, 9 red; 3 green, 15 blue, 5 red; 13 red, 13 green; 18 red, 4 green, 19 blue; 10 green, 10 red, 18 blue
+Red: 6, Green: 15, Blue: 13
+
+Game 90: 1 red, 1 green; 1 blue, 2 green, 1 red; 5 red, 2 blue
+Red: 1, Green: 1, Blue: 0 (OK)
+Red: 1, Green: 2, Blue: 1 (OK)
+Red: 5, Green: 0, Blue: 2 (OK)
+
+Game 91: 9 blue; 6 green, 12 blue, 2 red; 3 red, 1 green, 8 blue; 7 green, 2 red, 8 blue
+Red: 0, Green: 0, Blue: 9 (OK)
+Red: 2, Green: 6, Blue: 12 (OK)
+Red: 3, Green: 1, Blue: 8 (OK)
+Red: 2, Green: 7, Blue: 8 (OK)
+
+Game 92: 15 red, 7 green, 1 blue; 19 green, 12 red, 1 blue; 7 red, 16 green; 8 green, 1 blue, 14 red; 8 red, 1 blue, 9 green
+Red: 15, Green: 7, Blue: 1
+
+Game 93: 11 red, 4 green; 7 green, 8 red; 4 blue, 6 green; 8 red, 6 green, 1 blue; 6 green; 1 red, 1 green, 4 blue
+Red: 11, Green: 4, Blue: 0 (OK)
+Red: 8, Green: 7, Blue: 0 (OK)
+Red: 0, Green: 6, Blue: 4 (OK)
+Red: 8, Green: 6, Blue: 1 (OK)
+Red: 0, Green: 6, Blue: 0 (OK)
+Red: 1, Green: 1, Blue: 4 (OK)
+
+Game 94: 15 green; 1 red, 4 blue, 4 green; 1 red, 1 blue; 4 red, 1 green, 5 blue; 18 green, 3 red, 3 blue; 1 red
+Red: 0, Green: 15, Blue: 0
+
+Game 95: 1 blue, 3 green, 10 red; 1 blue, 6 green; 15 green, 2 red, 3 blue; 2 blue, 8 red, 11 green; 13 green, 10 red; 5 red
+Red: 10, Green: 3, Blue: 1 (OK)
+Red: 0, Green: 6, Blue: 1 (OK)
+Red: 2, Green: 15, Blue: 3
+
+Game 96: 8 green; 5 blue, 2 red, 4 green; 3 green, 4 red
+Red: 0, Green: 8, Blue: 0 (OK)
+Red: 2, Green: 4, Blue: 5 (OK)
+Red: 4, Green: 3, Blue: 0 (OK)
+
+Game 97: 5 red, 4 blue; 1 blue, 2 red, 9 green; 10 green, 3 red; 4 green, 3 blue, 4 red; 5 red, 4 green, 3 blue
+Red: 5, Green: 0, Blue: 4 (OK)
+Red: 2, Green: 9, Blue: 1 (OK)
+Red: 3, Green: 10, Blue: 0 (OK)
+Red: 4, Green: 4, Blue: 3 (OK)
+Red: 5, Green: 4, Blue: 3 (OK)
+
+Game 98: 3 green, 3 blue, 2 red; 2 blue, 2 red, 1 green; 3 green, 5 blue
+Red: 2, Green: 3, Blue: 3 (OK)
+Red: 2, Green: 1, Blue: 2 (OK)
+Red: 0, Green: 3, Blue: 5 (OK)
+
+Game 99: 11 green, 4 red, 12 blue; 9 red, 4 blue; 20 green, 6 blue
+Red: 4, Green: 11, Blue: 12 (OK)
+Red: 9, Green: 0, Blue: 4 (OK)
+Red: 0, Green: 20, Blue: 6
+
+Game 100: 12 red, 9 green; 12 red; 9 red, 3 green; 8 red, 4 blue, 4 green; 8 blue, 11 red, 2 green
+Red: 12, Green: 9, Blue: 0 (OK)
+Red: 12, Green: 0, Blue: 0 (OK)
+Red: 9, Green: 3, Blue: 0 (OK)
+Red: 8, Green: 4, Blue: 4 (OK)
+Red: 11, Green: 2, Blue: 8 (OK)
+
+===============
+Sum of valid game IDs: 2541
