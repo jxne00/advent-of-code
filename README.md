@@ -39,10 +39,10 @@ The script:
 
 - [ ] Day 6: Wait For It
 
-  - [ ] Part 1
+  - [x] Part 1
   - [ ] Part 2
 
-- [ ] Day 7: -
+- [ ] Day 7: Camel Cards
 
   - [ ] Part 1
   - [ ] Part 2
