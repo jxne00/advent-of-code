@@ -1,0 +1,10 @@
+----- Day 8: Haunted Wasteland (Part 1) -----
+
+
+Start node: DRM
+End node: QVF
+
+Path:
+DRM -> DLQ -> DKS -> CKJ -> PHJ -> GRS -> MPH -> XNV -> SJB -> GLP -> KDR -> NRF -> SVT -> PDG -> SHP -> XJH -> QVF
+
+Steps taken = 16
